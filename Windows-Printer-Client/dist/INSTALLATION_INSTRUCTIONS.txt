@@ -1,0 +1,81 @@
+========================================
+PRINT CLIENT PRO - INSTALLATION GUIDE
+========================================
+
+IMPORTANT: This folder contains BOTH files needed for printing:
+1. PrintClientPro.exe (33 MB) - Main application
+2. wkhtmltopdf.exe (30 MB) - PDF converter (REQUIRED!)
+
+========================================
+INSTALLATION STEPS:
+========================================
+
+1. COPY THE ENTIRE DIST FOLDER
+   - Copy this entire folder to the user's PC
+   - Location: C:\Users\[Username]\Desktop\dist\
+   - OR any other location of your choice
+
+2. VERIFY ALL FILES ARE PRESENT:
+   ✓ PrintClientPro.exe (33,155,955 bytes)
+   ✓ wkhtmltopdf.exe (30,235,648 bytes)
+   ✓ .env (configuration file)
+
+3. CLOSE OLD VERSION:
+   - Right-click system tray icon
+   - Select "Exit" or "Quit"
+   - Make sure PrintClientPro.exe is NOT running
+
+4. RUN THE NEW VERSION:
+   - Double-click PrintClientPro.exe
+   - It will appear in the system tray
+
+5. CONFIGURE AND TEST:
+   - Open the app from system tray
+   - Configure your server settings
+   - Click "Connect"
+   - Try a print job
+
+========================================
+TROUBLESHOOTING:
+========================================
+
+If printing still fails, check the console log tab:
+
+EXPECTED LOG OUTPUT (when working):
+----------------------------------
+🔍 Searching for wkhtmltopdf.exe in X locations...
+   Checking: C:\Users\...\dist\wkhtmltopdf.exe
+   ✅ Found wkhtmltopdf at: ...
+
+ERROR LOG OUTPUT (when wkhtmltopdf.exe is missing):
+---------------------------------------------------
+❌ wkhtmltopdf.exe not found in any location!
+   Searched locations: [...]
+   Falling back to ReportLab renderer...
+
+If you see the ERROR output above:
+- wkhtmltopdf.exe is missing or not in the same folder
+- Copy wkhtmltopdf.exe to the same folder as PrintClientPro.exe
+- Restart the application
+
+========================================
+FILE SIZES FOR VERIFICATION:
+========================================
+
+PrintClientPro.exe:  33,155,955 bytes (31.6 MB)
+wkhtmltopdf.exe:     30,235,648 bytes (28.8 MB)
+.env:                ~488 bytes
+
+Build Date: October 21, 2025
+Build Time: 11:31 AM
+
+========================================
+NOTES:
+========================================
+
+- Both files MUST be in the same folder
+- Do not delete wkhtmltopdf.exe
+- Do not move files separately
+- If you move PrintClientPro.exe, also move wkhtmltopdf.exe
+
+For support, check the console log for detailed error messages.

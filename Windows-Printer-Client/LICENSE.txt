@@ -1,0 +1,30 @@
+SOFTWARE LICENSE AGREEMENT
+
+Print Client Pro - Professional Printer Client Service
+
+Copyright (c) 2025 Print Client Pro
+
+This software and associated documentation files (the "Software") are provided
+under the following terms and conditions:
+
+GRANT OF LICENSE
+This license grants you the right to install and use the Software on your computer
+system for the purpose of printer management and background printing services.
+
+RESTRICTIONS
+1. You may not reverse engineer, decompile, or disassemble the Software.
+2. You may not redistribute the Software without explicit permission.
+3. You may not remove or alter any proprietary notices or labels on the Software.
+
+DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+SUPPORT
+For technical support and updates, please visit: https://www.printclientpro.com
+
+By installing this software, you agree to the terms and conditions outlined above.

@@ -1,0 +1,73 @@
+2025-10-21 11:13:41,274 - INFO - 🚀 Windows Printer Client GUI started
+2025-10-21 11:13:41,275 - INFO - 📍 Default Printer: BANAK
+2025-10-21 11:13:41,775 - INFO - 🔄 Auto-connecting to server on startup...
+2025-10-21 11:13:41,776 - INFO - 🔄 Connecting to https://socket.pss.al...
+2025-10-21 11:13:42,160 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 11:13:42,161 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 11:13:43,113 - INFO - 🔄 Connecting to https://socket.pss.al...
+2025-10-21 11:13:43,159 - ERROR - ❌ Connection failed: Already connected
+2025-10-21 11:13:50,918 - INFO - 💾 Configuration saved to: C:\Users\user\Desktop\ParidBackend\Windows-Printer-Client\dist\.env
+2025-10-21 11:13:56,125 - INFO - 💾 Configuration saved to: C:\Users\user\Desktop\ParidBackend\Windows-Printer-Client\dist\.env
+2025-10-21 11:13:57,975 - WARNING - ⚠️ Disconnected from server
+2025-10-21 11:13:58,044 - INFO - 🔌 Disconnected from server
+2025-10-21 11:14:03,905 - INFO - 🔄 Connecting to https://socket.pss.al...
+2025-10-21 11:14:04,224 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 11:14:04,225 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 11:14:31,350 - INFO - 🧪 Sending test print to BANAK...
+2025-10-21 11:14:31,566 - INFO - ✅ Test print sent successfully
+2025-10-21 11:16:09,225 - WARNING - ⚠️ Disconnected from server
+2025-10-21 11:16:10,644 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 11:16:10,645 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 11:18:15,662 - WARNING - ⚠️ Disconnected from server
+2025-10-21 11:18:16,546 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 11:18:16,547 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 11:18:52,208 - INFO - 🖨️ Print request received
+2025-10-21 11:18:52,208 - INFO -    Type: html
+2025-10-21 11:18:52,215 - INFO -    Printer: BANAK
+2025-10-21 11:18:56,122 - INFO - ✅ Print job completed successfully
+2025-10-21 11:20:47,946 - INFO - ⚙️ Opening properties for: BANAK
+2025-10-21 11:21:01,153 - WARNING - ⚠️ Disconnected from server
+2025-10-21 11:21:02,679 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 11:21:02,680 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 11:23:07,695 - WARNING - ⚠️ Disconnected from server
+2025-10-21 11:23:08,805 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 11:23:08,805 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 11:23:27,553 - INFO - 🗑️ Log cleared
+2025-10-21 11:23:46,861 - INFO - 🖨️ Print request received
+2025-10-21 11:23:46,862 - INFO -    Type: html
+2025-10-21 11:23:46,863 - INFO -    Printer: Kuzhine
+2025-10-21 11:23:46,867 - ERROR - ❌ Print job failed
+2025-10-21 11:23:46,905 - INFO - 🖨️ Print request received
+2025-10-21 11:23:46,905 - INFO -    Type: html
+2025-10-21 11:23:46,906 - INFO -    Printer: Piceria2
+2025-10-21 11:23:46,913 - ERROR - ❌ Print job failed
+2025-10-21 11:23:47,234 - INFO - 🖨️ Print request received
+2025-10-21 11:23:47,235 - INFO -    Type: html
+2025-10-21 11:23:47,236 - INFO -    Printer: Banak
+2025-10-21 11:23:50,904 - INFO - ✅ Print job completed successfully
+2025-10-21 11:24:02,990 - INFO - 🖨️ Print request received
+2025-10-21 11:24:02,991 - INFO -    Type: html
+2025-10-21 11:24:02,992 - INFO -    Printer: Banak
+2025-10-21 11:24:03,278 - INFO - 🖨️ Print request received
+2025-10-21 11:24:03,279 - INFO -    Type: html
+2025-10-21 11:24:03,280 - INFO -    Printer: Banak
+2025-10-21 11:24:06,551 - INFO - ✅ Print job completed successfully
+2025-10-21 11:24:06,827 - INFO - ✅ Print job completed successfully
+2025-10-21 11:24:19,017 - INFO - 🖨️ Print request received
+2025-10-21 11:24:19,018 - INFO -    Type: html
+2025-10-21 11:24:19,018 - INFO -    Printer: Banak
+2025-10-21 11:24:19,358 - INFO - 🖨️ Print request received
+2025-10-21 11:24:19,358 - INFO -    Type: html
+2025-10-21 11:24:19,359 - INFO -    Printer: Banak
+2025-10-21 11:24:22,590 - INFO - ✅ Print job completed successfully
+2025-10-21 11:24:22,900 - INFO - ✅ Print job completed successfully
+2025-10-21 11:26:27,944 - WARNING - ⚠️ Disconnected from server
+2025-10-21 11:26:29,634 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 11:26:29,635 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 11:36:23,770 - INFO - 🚀 Windows Printer Client GUI started
+2025-10-21 11:36:23,770 - INFO - 📍 Default Printer: BANAK
+2025-10-21 11:36:24,276 - INFO - 🔄 Auto-connecting to server on startup...
+2025-10-21 11:36:24,276 - INFO - 🔄 Connecting to https://socket.pss.al...
+2025-10-21 11:36:24,693 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 11:36:24,693 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 11:36:25,575 - INFO - 🔄 Connecting to https://socket.pss.al...
