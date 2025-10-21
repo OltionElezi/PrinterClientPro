@@ -1702,3 +1702,63 @@
 2025-10-21 10:14:32,862 - INFO - ✅ Print job completed successfully
 2025-10-21 10:14:55,475 - WARNING - ⚠️ Disconnected from server
 2025-10-21 10:14:55,513 - INFO - 🔌 Disconnected from server
+2025-10-21 15:50:17,036 - INFO - 🚀 Windows Printer Client GUI started
+2025-10-21 15:50:17,037 - INFO - 📍 Default Printer: BANAK
+2025-10-21 15:50:17,541 - INFO - 🔄 Auto-connecting to server on startup...
+2025-10-21 15:50:17,567 - INFO - 🔄 Connecting to https://socket.pss.al/...
+2025-10-21 15:50:17,894 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 15:50:17,898 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 15:50:29,106 - INFO - 💾 Configuration saved to: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\.env
+2025-10-21 15:50:31,143 - INFO - 💾 Configuration saved to: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\.env
+2025-10-21 15:50:36,004 - INFO - 🧪 Sending test print to BANAK...
+2025-10-21 15:50:36,036 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-21 15:50:36,360 - INFO - Print job completed successfully: Test Print
+2025-10-21 15:50:36,363 - INFO - ✅ Test print sent successfully
+2025-10-21 15:50:36,405 - INFO - Printer 'BANAK' has 1 jobs in Windows spooler
+2025-10-21 15:50:41,554 - INFO - 📄 PDF converter selected: reportlab
+2025-10-21 15:50:45,673 - INFO - 💾 Configuration saved to: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\.env
+2025-10-21 15:52:22,898 - WARNING - ⚠️ Disconnected from server
+2025-10-21 15:52:23,952 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 15:52:23,953 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 15:53:23,699 - WARNING - ⚠️ Disconnected from server
+2025-10-21 15:53:23,732 - INFO - 🔌 Disconnected from server
+2025-10-21 15:54:53,009 - INFO - 🚀 Windows Printer Client GUI started
+2025-10-21 15:54:53,009 - INFO - 📍 Default Printer: BANAK
+2025-10-21 15:54:53,516 - INFO - 🔄 Auto-connecting to server on startup...
+2025-10-21 15:54:53,556 - INFO - 🔄 Connecting to https://socket.pss.al/...
+2025-10-21 15:54:53,863 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 15:54:53,864 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 15:54:57,123 - INFO - 💾 Configuration saved to: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\.env
+2025-10-21 15:55:02,924 - INFO - 🖨️ Print request received
+2025-10-21 15:55:02,925 - INFO -    Type: html
+2025-10-21 15:55:02,932 - INFO -    Printer: Banak
+2025-10-21 15:55:02,938 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-21 15:55:02,944 - INFO - 📄 Converting HTML to PDF...
+2025-10-21 15:55:02,944 - INFO -    HTML length: 4480 characters
+2025-10-21 15:55:02,968 - INFO - Using PDF converter: reportlab
+2025-10-21 15:55:03,158 - INFO - Using optimized table-based receipt renderer
+2025-10-21 15:55:03,282 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-21 15:55:03,282 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-21 15:55:03,282 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-21 15:55:03,284 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-21 15:55:03,285 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-21 15:55:03,288 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-21 15:55:03,290 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-21 15:55:03,291 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-21 15:55:03,294 - INFO - Using font scale: 1.0 (100%)
+2025-10-21 15:55:03,301 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmp3gjkzv4d.pdf
+2025-10-21 15:55:03,311 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmp3gjkzv4d.pdf (1874 bytes)
+2025-10-21 15:55:03,311 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-21 15:55:03,313 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-21 15:55:03,315 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\SumatraPDF.exe
+2025-10-21 15:55:03,341 - DEBUG -    ❌ Not found
+2025-10-21 15:55:03,354 - DEBUG -    Checking: C:\Program Files\SumatraPDF\SumatraPDF.exe
+2025-10-21 15:55:03,360 - DEBUG -    ❌ Not found
+2025-10-21 15:55:03,361 - DEBUG -    Checking: C:\Program Files (x86)\SumatraPDF\SumatraPDF.exe
+2025-10-21 15:55:03,361 - DEBUG -    ❌ Not found
+2025-10-21 15:55:03,363 - INFO - SumatraPDF not found, trying Windows ShellExecute...
+2025-10-21 15:55:03,506 - INFO - ✅ PDF sent to printer using ShellExecute: BANAK
+2025-10-21 15:55:04,508 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-21 15:55:06,509 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmp3gjkzv4d.pdf
+2025-10-21 15:55:06,510 - INFO - ✅ Print job completed successfully
+2025-10-21 15:56:28,365 - WARNING - ⚠️ Disconnected from server

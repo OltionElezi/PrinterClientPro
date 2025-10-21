@@ -1,0 +1,290 @@
+================================================================================
+                    PrintClientPro - Installation Guide
+                          Windows Auto-Start Edition
+================================================================================
+
+WHAT YOU HAVE
+=============
+
+This folder contains a complete, portable installation of PrintClientPro.
+Everything you need is right here - no additional installation required!
+
+FILES IN THIS FOLDER:
+---------------------
+  [X] PrintClientPro.exe       - Main application
+  [X] .env                     - Your configuration file
+  [X] SETUP_AUTOSTART.bat      - Setup auto-start (DOUBLE-CLICK THIS)
+  [X] REMOVE_AUTOSTART.bat     - Remove auto-start
+  [X] START_HERE.bat           - Interactive menu
+  [X] wkhtmltopdf.exe          - PDF converter (recommended)
+  [X] SumatraPDF.exe           - Alternative PDF tool
+  [X] README_AUTOSTART.txt     - Detailed documentation
+  [X] printer_settings.json    - Printer configurations
+  [X] This file                - Installation guide
+
+
+================================================================================
+                         STEP-BY-STEP SETUP
+================================================================================
+
+STEP 1: CONFIGURE AUTO-START (5 seconds)
+-----------------------------------------
+  1. Double-click: SETUP_AUTOSTART.bat
+  2. Wait for setup to complete
+  3. Press 'Y' when asked if you want to start now
+
+  DONE! PrintClientPro will now start automatically every time you boot your PC.
+
+
+STEP 2: VERIFY CONFIGURATION (Optional)
+----------------------------------------
+  Your current settings are in the .env file:
+
+  Server:   https://socket.pss.al
+  NIPT:     PSSTEST
+  Username: printer_client
+
+  To change these:
+    1. Start PrintClientPro
+    2. Click "⚙️ Configuration" button
+    3. Edit settings
+    4. Click "💾 Save"
+
+
+STEP 3: TEST (1 minute)
+-----------------------
+  Option A - Start Manually:
+    - Double-click PrintClientPro.exe
+    - Check if it connects to the server
+    - Try a test print
+
+  Option B - Test Auto-Start:
+    - Restart your computer
+    - After login, PrintClientPro should start automatically
+
+
+================================================================================
+                              WHAT HAPPENS NOW
+================================================================================
+
+AUTOMATIC STARTUP:
+  ✓ Windows creates a shortcut in your Startup folder
+  ✓ Every time you log into Windows, PrintClientPro starts
+  ✓ The application connects to the server automatically
+  ✓ Ready to receive print jobs immediately
+
+CONFIGURATION:
+  ✓ .env file contains all your settings
+  ✓ Can be edited through the GUI or manually
+  ✓ Settings are saved in this folder (portable)
+
+PORTABLE:
+  ✓ You can move this entire folder anywhere
+  ✓ Copy to other computers
+  ✓ No registry entries (except the startup shortcut)
+  ✓ Easy to backup and restore
+
+
+================================================================================
+                           CURRENT CONFIGURATION
+================================================================================
+
+Location of this folder:
+  C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist
+
+Startup shortcut will be created at:
+  %APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\PrintClientPro.lnk
+
+Configuration file (.env):
+  SOCKET_URL = https://socket.pss.al
+  NIPT = PSSTEST
+  SESSION_ID = printer_client_session_001
+  CLIENT_USERNAME = printer_client
+  PDF_CONVERTER = wkhtmltopdf
+
+
+================================================================================
+                              COMMON TASKS
+================================================================================
+
+TASK: Change server configuration
+  1. Double-click PrintClientPro.exe
+  2. Click "⚙️ Configuration"
+  3. Change "Socket Server URL" or other settings
+  4. Click "💾 Save"
+  5. Restart the application
+
+TASK: Configure printers
+  1. Open PrintClientPro
+  2. Click "🖨️ Printers" tab
+  3. Set printer aliases and descriptions
+  4. Click "💾 Save Settings" for each printer
+
+TASK: View logs
+  1. Open PrintClientPro
+  2. Check the "📋 Console Log" tab
+  3. Or open printer_client_gui.log with Notepad
+
+TASK: Test printing
+  1. Open PrintClientPro
+  2. Connect to server (green "Connected" status)
+  3. Click "🧪 Test Print" button
+  4. Check your default printer
+
+TASK: Disable auto-start
+  1. Double-click REMOVE_AUTOSTART.bat
+  2. Confirm removal
+  3. PrintClientPro will no longer start automatically
+
+TASK: Re-enable auto-start
+  1. Double-click SETUP_AUTOSTART.bat
+  2. Setup runs again
+  3. Auto-start is restored
+
+
+================================================================================
+                           TROUBLESHOOTING
+================================================================================
+
+PROBLEM: Auto-start doesn't work after reboot
+  SOLUTION:
+    1. Open Windows Startup folder (Win+R, type: shell:startup)
+    2. Check if PrintClientPro.lnk exists
+    3. If missing, run SETUP_AUTOSTART.bat again
+    4. If exists, right-click → Properties → check path is correct
+
+PROBLEM: Application starts but doesn't connect
+  SOLUTION:
+    1. Check .env file - make sure SOCKET_URL is correct
+    2. Verify network connection
+    3. Check firewall settings
+    4. Review logs in printer_client_gui.log
+
+PROBLEM: Prints don't work
+  SOLUTION:
+    1. Check if printer is online (Windows Settings → Printers)
+    2. Try test print from Windows
+    3. Check PrintClientPro logs
+    4. Verify printer name matches
+
+PROBLEM: Want to move this folder to another location
+  SOLUTION:
+    1. Run REMOVE_AUTOSTART.bat (in current location)
+    2. Close PrintClientPro if running
+    3. Move entire folder to new location
+    4. Run SETUP_AUTOSTART.bat (in new location)
+
+PROBLEM: Setup script fails / Access denied
+  SOLUTION:
+    1. Right-click SETUP_AUTOSTART.bat
+    2. Select "Run as Administrator"
+    3. Try again
+
+
+================================================================================
+                          ADVANCED OPTIONS
+================================================================================
+
+PORTABLE INSTALLATION ON ANOTHER PC:
+  1. Copy this entire folder to USB drive
+  2. Transfer to new PC
+  3. Run SETUP_AUTOSTART.bat on new PC
+  4. Edit .env if server/credentials are different
+  5. Done!
+
+RUN WITHOUT AUTO-START:
+  - Simply double-click PrintClientPro.exe
+  - No setup needed
+  - Manual start each time
+
+BACKUP YOUR CONFIGURATION:
+  - Copy these files to backup location:
+    • .env (your settings)
+    • printer_settings.json (printer configs)
+    • printer_client_gui.log (if you need logs)
+
+MULTIPLE INSTALLATIONS:
+  - You CAN have multiple copies in different folders
+  - Each can have different .env configurations
+  - But only ONE should have auto-start enabled
+
+
+================================================================================
+                          SYSTEM REQUIREMENTS
+================================================================================
+
+Operating System:
+  ✓ Windows 7 or later
+  ✓ Windows 10/11 recommended
+
+Permissions:
+  ✓ No administrator rights needed for normal operation
+  ✓ Admin rights may be needed for first-time setup on some systems
+
+Network:
+  ✓ Internet connection to reach socket server
+  ✓ Access to: https://socket.pss.al
+
+Printers:
+  ✓ At least one printer installed in Windows
+  ✓ Printer should be set as online/ready
+
+
+================================================================================
+                          QUICK REFERENCE
+================================================================================
+
+Start Application:           Double-click PrintClientPro.exe
+Setup Auto-Start:            Double-click SETUP_AUTOSTART.bat
+Remove Auto-Start:           Double-click REMOVE_AUTOSTART.bat
+Interactive Menu:            Double-click START_HERE.bat
+Edit Configuration:          Open .env with Notepad (or use GUI)
+View Logs:                   Open printer_client_gui.log
+Open Startup Folder:         Win+R → type: shell:startup
+Check Auto-Start:            Win+R → type: shell:startup → look for PrintClientPro.lnk
+
+
+================================================================================
+                          SUPPORT & CONTACT
+================================================================================
+
+For technical issues:
+  1. Check printer_client_gui.log for errors
+  2. Verify .env configuration
+  3. Test network connectivity
+  4. Contact your system administrator
+
+Documentation:
+  - README_AUTOSTART.txt (detailed auto-start guide)
+  - This file (installation guide)
+  - In-app help (coming soon)
+
+
+================================================================================
+                              ABOUT
+================================================================================
+
+Application:    PrintClientPro
+Version:        Windows Desktop Edition
+Type:           Automatic Printer Client
+Auto-Start:     Windows Startup Folder Method
+Developer:      [Your Company]
+Support:        [Support Contact]
+
+
+================================================================================
+                          THANK YOU!
+================================================================================
+
+Thank you for using PrintClientPro!
+
+This application is designed to make remote printing simple and automatic.
+Once configured, it works silently in the background, ready to print
+whenever needed.
+
+If you have any questions or need assistance, please don't hesitate
+to contact support.
+
+Happy Printing! 🖨️
+
+================================================================================

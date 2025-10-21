@@ -1,73 +1,123 @@
-2025-10-21 11:13:41,274 - INFO - 🚀 Windows Printer Client GUI started
-2025-10-21 11:13:41,275 - INFO - 📍 Default Printer: BANAK
-2025-10-21 11:13:41,775 - INFO - 🔄 Auto-connecting to server on startup...
-2025-10-21 11:13:41,776 - INFO - 🔄 Connecting to https://socket.pss.al...
-2025-10-21 11:13:42,160 - INFO - 📨 Status: Printer client connected and joined room
-2025-10-21 11:13:42,161 - INFO - ✅ Successfully connected to Backend-Socket server
-2025-10-21 11:13:43,113 - INFO - 🔄 Connecting to https://socket.pss.al...
-2025-10-21 11:13:43,159 - ERROR - ❌ Connection failed: Already connected
-2025-10-21 11:13:50,918 - INFO - 💾 Configuration saved to: C:\Users\user\Desktop\ParidBackend\Windows-Printer-Client\dist\.env
-2025-10-21 11:13:56,125 - INFO - 💾 Configuration saved to: C:\Users\user\Desktop\ParidBackend\Windows-Printer-Client\dist\.env
-2025-10-21 11:13:57,975 - WARNING - ⚠️ Disconnected from server
-2025-10-21 11:13:58,044 - INFO - 🔌 Disconnected from server
-2025-10-21 11:14:03,905 - INFO - 🔄 Connecting to https://socket.pss.al...
-2025-10-21 11:14:04,224 - INFO - 📨 Status: Printer client connected and joined room
-2025-10-21 11:14:04,225 - INFO - ✅ Successfully connected to Backend-Socket server
-2025-10-21 11:14:31,350 - INFO - 🧪 Sending test print to BANAK...
-2025-10-21 11:14:31,566 - INFO - ✅ Test print sent successfully
-2025-10-21 11:16:09,225 - WARNING - ⚠️ Disconnected from server
-2025-10-21 11:16:10,644 - INFO - 📨 Status: Printer client connected and joined room
-2025-10-21 11:16:10,645 - INFO - ✅ Successfully connected to Backend-Socket server
-2025-10-21 11:18:15,662 - WARNING - ⚠️ Disconnected from server
-2025-10-21 11:18:16,546 - INFO - 📨 Status: Printer client connected and joined room
-2025-10-21 11:18:16,547 - INFO - ✅ Successfully connected to Backend-Socket server
-2025-10-21 11:18:52,208 - INFO - 🖨️ Print request received
-2025-10-21 11:18:52,208 - INFO -    Type: html
-2025-10-21 11:18:52,215 - INFO -    Printer: BANAK
-2025-10-21 11:18:56,122 - INFO - ✅ Print job completed successfully
-2025-10-21 11:20:47,946 - INFO - ⚙️ Opening properties for: BANAK
-2025-10-21 11:21:01,153 - WARNING - ⚠️ Disconnected from server
-2025-10-21 11:21:02,679 - INFO - 📨 Status: Printer client connected and joined room
-2025-10-21 11:21:02,680 - INFO - ✅ Successfully connected to Backend-Socket server
-2025-10-21 11:23:07,695 - WARNING - ⚠️ Disconnected from server
-2025-10-21 11:23:08,805 - INFO - 📨 Status: Printer client connected and joined room
-2025-10-21 11:23:08,805 - INFO - ✅ Successfully connected to Backend-Socket server
-2025-10-21 11:23:27,553 - INFO - 🗑️ Log cleared
-2025-10-21 11:23:46,861 - INFO - 🖨️ Print request received
-2025-10-21 11:23:46,862 - INFO -    Type: html
-2025-10-21 11:23:46,863 - INFO -    Printer: Kuzhine
-2025-10-21 11:23:46,867 - ERROR - ❌ Print job failed
-2025-10-21 11:23:46,905 - INFO - 🖨️ Print request received
-2025-10-21 11:23:46,905 - INFO -    Type: html
-2025-10-21 11:23:46,906 - INFO -    Printer: Piceria2
-2025-10-21 11:23:46,913 - ERROR - ❌ Print job failed
-2025-10-21 11:23:47,234 - INFO - 🖨️ Print request received
-2025-10-21 11:23:47,235 - INFO -    Type: html
-2025-10-21 11:23:47,236 - INFO -    Printer: Banak
-2025-10-21 11:23:50,904 - INFO - ✅ Print job completed successfully
-2025-10-21 11:24:02,990 - INFO - 🖨️ Print request received
-2025-10-21 11:24:02,991 - INFO -    Type: html
-2025-10-21 11:24:02,992 - INFO -    Printer: Banak
-2025-10-21 11:24:03,278 - INFO - 🖨️ Print request received
-2025-10-21 11:24:03,279 - INFO -    Type: html
-2025-10-21 11:24:03,280 - INFO -    Printer: Banak
-2025-10-21 11:24:06,551 - INFO - ✅ Print job completed successfully
-2025-10-21 11:24:06,827 - INFO - ✅ Print job completed successfully
-2025-10-21 11:24:19,017 - INFO - 🖨️ Print request received
-2025-10-21 11:24:19,018 - INFO -    Type: html
-2025-10-21 11:24:19,018 - INFO -    Printer: Banak
-2025-10-21 11:24:19,358 - INFO - 🖨️ Print request received
-2025-10-21 11:24:19,358 - INFO -    Type: html
-2025-10-21 11:24:19,359 - INFO -    Printer: Banak
-2025-10-21 11:24:22,590 - INFO - ✅ Print job completed successfully
-2025-10-21 11:24:22,900 - INFO - ✅ Print job completed successfully
-2025-10-21 11:26:27,944 - WARNING - ⚠️ Disconnected from server
-2025-10-21 11:26:29,634 - INFO - 📨 Status: Printer client connected and joined room
-2025-10-21 11:26:29,635 - INFO - ✅ Successfully connected to Backend-Socket server
-2025-10-21 11:36:23,770 - INFO - 🚀 Windows Printer Client GUI started
-2025-10-21 11:36:23,770 - INFO - 📍 Default Printer: BANAK
-2025-10-21 11:36:24,276 - INFO - 🔄 Auto-connecting to server on startup...
-2025-10-21 11:36:24,276 - INFO - 🔄 Connecting to https://socket.pss.al...
-2025-10-21 11:36:24,693 - INFO - 📨 Status: Printer client connected and joined room
-2025-10-21 11:36:24,693 - INFO - ✅ Successfully connected to Backend-Socket server
-2025-10-21 11:36:25,575 - INFO - 🔄 Connecting to https://socket.pss.al...
+2025-10-21 15:52:29,976 - INFO - 🖨️ Print request received
+2025-10-21 15:52:29,978 - INFO -    Type: html
+2025-10-21 15:52:29,982 - INFO -    Printer: Banak
+2025-10-21 15:52:30,013 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-21 15:52:30,015 - INFO - 📄 Converting HTML to PDF...
+2025-10-21 15:52:30,023 - INFO - 🖨️ Print request received
+2025-10-21 15:52:30,022 - INFO -    HTML length: 4479 characters
+2025-10-21 15:52:30,025 - INFO -    Type: html
+2025-10-21 15:52:30,049 - INFO -    Printer: Banak
+2025-10-21 15:52:30,095 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-21 15:52:30,099 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-21 15:52:30,097 - INFO - 📄 Converting HTML to PDF...
+2025-10-21 15:52:30,099 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-21 15:52:30,111 - INFO -    HTML length: 4479 characters
+2025-10-21 15:52:30,121 - INFO - 📦 Running as PyInstaller bundle
+2025-10-21 15:52:30,131 - INFO -    Executable dir: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist
+2025-10-21 15:52:30,146 - INFO -    Temp extract dir: C:\Users\user\AppData\Local\Temp\_MEI84442
+2025-10-21 15:52:30,162 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-21 15:52:30,157 - INFO - 🔍 Searching for wkhtmltopdf.exe in 5 locations...
+2025-10-21 15:52:30,163 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-21 15:52:30,169 - INFO -    Checking: C:\Users\user\AppData\Local\Temp\_MEI84442\wkhtmltopdf.exe
+2025-10-21 15:52:30,176 - INFO - 📦 Running as PyInstaller bundle
+2025-10-21 15:52:30,180 - INFO -    ❌ Not found
+2025-10-21 15:52:30,191 - INFO -    Executable dir: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist
+2025-10-21 15:52:30,200 - INFO -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\wkhtmltopdf.exe
+2025-10-21 15:52:30,205 - INFO -    Temp extract dir: C:\Users\user\AppData\Local\Temp\_MEI213682
+2025-10-21 15:52:30,210 - INFO - ✅ Found wkhtmltopdf at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\wkhtmltopdf.exe
+2025-10-21 15:52:30,221 - INFO - 🔍 Searching for wkhtmltopdf.exe in 5 locations...
+2025-10-21 15:52:30,236 - INFO -    Checking: C:\Users\user\AppData\Local\Temp\_MEI213682\wkhtmltopdf.exe
+2025-10-21 15:52:30,247 - INFO -    ❌ Not found
+2025-10-21 15:52:30,252 - INFO -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\wkhtmltopdf.exe
+2025-10-21 15:52:30,258 - INFO - ✅ Found wkhtmltopdf at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\wkhtmltopdf.exe
+2025-10-21 15:52:31,184 - INFO - HTML converted to PDF with wkhtmltopdf: C:\Users\user\AppData\Local\Temp\tmpdp2hcey8.pdf
+2025-10-21 15:52:31,185 - INFO - HTML converted to PDF with wkhtmltopdf: C:\Users\user\AppData\Local\Temp\tmpud5dbs4m.pdf
+2025-10-21 15:52:31,185 - INFO - ✅ wkhtmltopdf conversion successful: C:\Users\user\AppData\Local\Temp\tmpud5dbs4m.pdf
+2025-10-21 15:52:31,186 - INFO - ✅ wkhtmltopdf conversion successful: C:\Users\user\AppData\Local\Temp\tmpdp2hcey8.pdf
+2025-10-21 15:52:31,197 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmpdp2hcey8.pdf (19299 bytes)
+2025-10-21 15:52:31,197 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmpud5dbs4m.pdf (19299 bytes)
+2025-10-21 15:52:31,213 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-21 15:52:31,214 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-21 15:52:31,233 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-21 15:52:31,234 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-21 15:52:31,252 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-21 15:52:31,251 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-21 15:52:31,269 - INFO - ✅ Found SumatraPDF at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-21 15:52:31,269 - INFO - ✅ Found SumatraPDF at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-21 15:52:31,286 - INFO - 🖨️ Using SumatraPDF to print PDF to BANAK...
+2025-10-21 15:52:31,285 - INFO - 🖨️ Using SumatraPDF to print PDF to BANAK...
+2025-10-21 15:52:31,738 - INFO - ✅ PDF printed successfully using SumatraPDF to BANAK
+2025-10-21 15:52:31,738 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-21 15:52:31,751 - INFO - ✅ PDF printed successfully using SumatraPDF to BANAK
+2025-10-21 15:52:31,752 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-21 15:52:33,743 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmpud5dbs4m.pdf
+2025-10-21 15:52:33,744 - INFO - ✅ Print job completed successfully
+2025-10-21 15:52:33,767 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmpdp2hcey8.pdf
+2025-10-21 15:52:33,767 - INFO - ✅ Print job completed successfully
+2025-10-21 15:52:41,499 - INFO - 🖨️ Print request received
+2025-10-21 15:52:41,500 - INFO -    Type: html
+2025-10-21 15:52:41,507 - INFO -    Printer: Banak
+2025-10-21 15:52:41,521 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-21 15:52:41,523 - INFO - 🖨️ Print request received
+2025-10-21 15:52:41,524 - INFO -    Type: html
+2025-10-21 15:52:41,524 - INFO - 📄 Converting HTML to PDF...
+2025-10-21 15:52:41,539 - INFO -    Printer: Banak
+2025-10-21 15:52:41,552 - INFO -    HTML length: 4480 characters
+2025-10-21 15:52:41,561 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-21 15:52:41,568 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-21 15:52:41,573 - INFO - 📄 Converting HTML to PDF...
+2025-10-21 15:52:41,576 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-21 15:52:41,588 - INFO -    HTML length: 4480 characters
+2025-10-21 15:52:41,590 - INFO - 📦 Running as PyInstaller bundle
+2025-10-21 15:52:41,611 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-21 15:52:41,611 - INFO -    Executable dir: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist
+2025-10-21 15:52:41,627 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-21 15:52:41,629 - INFO -    Temp extract dir: C:\Users\user\AppData\Local\Temp\_MEI84442
+2025-10-21 15:52:41,644 - INFO - 📦 Running as PyInstaller bundle
+2025-10-21 15:52:41,654 - INFO - 🔍 Searching for wkhtmltopdf.exe in 5 locations...
+2025-10-21 15:52:41,663 - INFO -    Executable dir: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist
+2025-10-21 15:52:41,664 - INFO -    Checking: C:\Users\user\AppData\Local\Temp\_MEI84442\wkhtmltopdf.exe
+2025-10-21 15:52:41,683 - INFO -    Temp extract dir: C:\Users\user\AppData\Local\Temp\_MEI213682
+2025-10-21 15:52:41,684 - INFO -    ❌ Not found
+2025-10-21 15:52:41,703 - INFO - 🔍 Searching for wkhtmltopdf.exe in 5 locations...
+2025-10-21 15:52:41,704 - INFO -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\wkhtmltopdf.exe
+2025-10-21 15:52:41,723 - INFO - ✅ Found wkhtmltopdf at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\wkhtmltopdf.exe
+2025-10-21 15:52:41,722 - INFO -    Checking: C:\Users\user\AppData\Local\Temp\_MEI213682\wkhtmltopdf.exe
+2025-10-21 15:52:41,742 - INFO -    ❌ Not found
+2025-10-21 15:52:41,764 - INFO -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\wkhtmltopdf.exe
+2025-10-21 15:52:41,777 - INFO - ✅ Found wkhtmltopdf at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\wkhtmltopdf.exe
+2025-10-21 15:52:42,194 - INFO - HTML converted to PDF with wkhtmltopdf: C:\Users\user\AppData\Local\Temp\tmpze10dx7u.pdf
+2025-10-21 15:52:42,194 - INFO - ✅ wkhtmltopdf conversion successful: C:\Users\user\AppData\Local\Temp\tmpze10dx7u.pdf
+2025-10-21 15:52:42,203 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmpze10dx7u.pdf (19339 bytes)
+2025-10-21 15:52:42,212 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-21 15:52:42,227 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-21 15:52:42,239 - INFO - HTML converted to PDF with wkhtmltopdf: C:\Users\user\AppData\Local\Temp\tmpgnf5fihp.pdf
+2025-10-21 15:52:42,236 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-21 15:52:42,240 - INFO - ✅ wkhtmltopdf conversion successful: C:\Users\user\AppData\Local\Temp\tmpgnf5fihp.pdf
+2025-10-21 15:52:42,251 - INFO - ✅ Found SumatraPDF at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-21 15:52:42,253 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmpgnf5fihp.pdf (19339 bytes)
+2025-10-21 15:52:42,271 - INFO - 🖨️ Using SumatraPDF to print PDF to BANAK...
+2025-10-21 15:52:42,271 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-21 15:52:42,288 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-21 15:52:42,305 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-21 15:52:42,315 - INFO - ✅ Found SumatraPDF at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-21 15:52:42,322 - INFO - 🖨️ Using SumatraPDF to print PDF to BANAK...
+2025-10-21 15:52:42,593 - INFO - ✅ PDF printed successfully using SumatraPDF to BANAK
+2025-10-21 15:52:42,593 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-21 15:52:42,628 - INFO - ✅ PDF printed successfully using SumatraPDF to BANAK
+2025-10-21 15:52:42,628 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-21 15:52:44,601 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmpze10dx7u.pdf
+2025-10-21 15:52:44,601 - INFO - ✅ Print job completed successfully
+2025-10-21 15:52:44,635 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmpgnf5fihp.pdf
+2025-10-21 15:52:44,636 - INFO - ✅ Print job completed successfully
+2025-10-21 15:52:54,073 - WARNING - ⚠️ Disconnected from server
+2025-10-21 15:52:56,259 - WARNING - ⚠️ Disconnected from server
+2025-10-21 15:53:52,903 - INFO - 🚀 Windows Printer Client GUI started
+2025-10-21 15:53:52,904 - INFO - 📍 Default Printer: BANAK
+2025-10-21 15:53:53,415 - INFO - 🔄 Auto-connecting to server on startup...
+2025-10-21 15:53:53,416 - INFO - 🔄 Connecting to https://socket.pss.al...
+2025-10-21 15:53:53,741 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 15:53:53,742 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 15:53:54,735 - INFO - 🔄 Connecting to https://socket.pss.al...
+2025-10-21 15:53:54,781 - ERROR - ❌ Connection failed: Already connected
+2025-10-21 15:53:57,490 - WARNING - ⚠️ Disconnected from server
