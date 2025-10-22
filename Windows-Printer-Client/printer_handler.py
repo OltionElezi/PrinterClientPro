@@ -786,6 +786,15 @@ class PrinterHandler:
                                 spacing = 0.8
                             y -= (line_height + spacing) * mm
 
+                            # Check if this is "Tavolina" or "Menyra e Pageses" field - add line AFTER
+                            # This check must be AFTER drawing text and spacing
+                            if 'Tavolina:' in text or 'Menyra e Pageses:' in text:
+                                # Add spacing and solid line AFTER Tavolina/Menyra e Pageses
+                                y -= 1 * mm  # Extra space before line
+                                draw_solid_line(y)
+                                y -= 2 * mm  # Space after line
+                                last_section = 'after_tavolina'
+
                     # Multi-cell row (table data)
                     elif len(cells) >= 2:
                         # Filter out empty cells
@@ -826,7 +835,7 @@ class PrinterHandler:
 
                         # Format based on number of non-empty columns
                         if len(non_empty_cells) == 2:
-                            # Two columns: label and value (like TOTALI row)
+                            # Two columns: Could be TOTALI row OR Sasia/Artikull (Fature Porosi)
                             left_text = cell_texts[0]
                             right_text = cell_texts[1]
 
@@ -838,22 +847,79 @@ class PrinterHandler:
                                 y -= 3 * mm
                                 last_section = 'totali'
 
-                            # Check alignment of right cell
-                            if alignments[1] == 'center':
-                                # Draw left text on left, right text centered on right side
-                                c.setFont("Helvetica-Bold" if bold else "Helvetica", font_size)
+                            # Check if this is a Fature Porosi table (Sasia + Artikull)
+                            # Detect by checking if left text contains "x" (quantity marker)
+                            is_fature_porosi = 'x' in left_text.lower() and not has_heading
+
+                            if is_fature_porosi and is_tbody_row:
+                                # Fature Porosi: Two columns with Sasia (left) and Artikull (right)
+                                # Need word wrapping for long Artikull names
+                                font_name = "Helvetica-Bold" if bold else "Helvetica"
+                                c.setFont(font_name, font_size)
+
+                                # Calculate column widths: 20% for Sasia, 80% for Artikull
+                                sasia_width = (width - 2 * margin) * 0.2
+                                artikull_width = (width - 2 * margin) * 0.8
+
+                                # Draw Sasia (left column)
                                 c.drawString(margin, y, left_text)
-                                c.drawCentredString(width - margin - 15*mm, y, right_text)
-                            elif alignments[1] == 'right':
-                                # Traditional left-right alignment
-                                line = f"{left_text:<35} {right_text:>10}"
-                                c.setFont("Helvetica-Bold" if bold else "Helvetica", font_size)
-                                c.drawString(margin, y, line)
+
+                                # Check if Artikull text fits in one line
+                                artikull_x = margin + sasia_width
+                                text_width = c.stringWidth(right_text, font_name, font_size)
+
+                                if text_width <= (artikull_width - 2*mm):
+                                    # Fits in one line
+                                    c.drawString(artikull_x, y, right_text)
+                                else:
+                                    # Need to wrap - split into words
+                                    words = right_text.split()
+                                    lines = []
+                                    current_line = ""
+
+                                    for word in words:
+                                        test_line = current_line + " " + word if current_line else word
+                                        test_width = c.stringWidth(test_line, font_name, font_size)
+
+                                        if test_width <= (artikull_width - 2*mm):
+                                            current_line = test_line
+                                        else:
+                                            if current_line:
+                                                lines.append(current_line)
+                                            current_line = word
+
+                                    if current_line:
+                                        lines.append(current_line)
+
+                                    # Draw first line
+                                    if lines:
+                                        c.drawString(artikull_x, y, lines[0])
+
+                                        # Draw remaining lines (indented under Artikull column)
+                                        for additional_line in lines[1:]:
+                                            y -= (font_size * 0.35 + 0.8) * mm
+                                            c.drawString(artikull_x, y, additional_line)
+
+                                # Add extra spacing after Fature Porosi product row
+                                y -= 2 * mm  # Extra spacing between products
                             else:
-                                # Both left-aligned with spacing
-                                line = f"{left_text:<25} {right_text}"
-                                c.setFont("Helvetica-Bold" if bold else "Helvetica", font_size)
-                                c.drawString(margin, y, line)
+                                # Regular 2-column format (TOTALI, etc.)
+                                # Check alignment of right cell
+                                if alignments[1] == 'center':
+                                    # Draw left text on left, right text centered on right side
+                                    c.setFont("Helvetica-Bold" if bold else "Helvetica", font_size)
+                                    c.drawString(margin, y, left_text)
+                                    c.drawCentredString(width - margin - 15*mm, y, right_text)
+                                elif alignments[1] == 'right':
+                                    # Traditional left-right alignment
+                                    line = f"{left_text:<35} {right_text:>10}"
+                                    c.setFont("Helvetica-Bold" if bold else "Helvetica", font_size)
+                                    c.drawString(margin, y, line)
+                                else:
+                                    # Both left-aligned with spacing
+                                    line = f"{left_text:<25} {right_text}"
+                                    c.setFont("Helvetica-Bold" if bold else "Helvetica", font_size)
+                                    c.drawString(margin, y, line)
                         elif len(non_empty_cells) == 4:
                             # Four columns: Artikull, Sasia, Cmimi, Vlera
                             c.setFont("Helvetica-Bold" if (bold or is_header) else "Helvetica", font_size)
@@ -881,15 +947,68 @@ class PrinterHandler:
                             else:
                                 # Data row - align to match header columns
                                 # Artikull (left), Sasia (center), Cmimi (center), Vlera (center)
-                                for i, text in enumerate(cell_texts):
-                                    x_pos = margin + (i * col_width)
-                                    if i == 0:
-                                        # Artikull - left aligned in column
-                                        c.drawString(x_pos, y, text)
-                                    else:
-                                        # Sasia, Cmimi, Vlera - centered in columns
+
+                                # Handle first column (Artikull) with word wrapping if needed
+                                artikull_text = cell_texts[0]
+                                x_pos_artikull = margin
+
+                                # Calculate max width for Artikull column (leave space for other columns)
+                                max_artikull_width = col_width - 2*mm  # Add small padding
+
+                                # Check if text fits in one line
+                                font_name = "Helvetica-Bold" if (bold or is_header) else "Helvetica"
+                                text_width = c.stringWidth(artikull_text, font_name, font_size)
+
+                                if text_width <= max_artikull_width:
+                                    # Fits in one line - draw normally
+                                    c.drawString(x_pos_artikull, y, artikull_text)
+
+                                    # Draw other columns on same line
+                                    for i in range(1, len(cell_texts)):
+                                        text = cell_texts[i]
+                                        x_pos = margin + (i * col_width)
                                         x_center = x_pos + (col_width / 2)
                                         c.drawCentredString(x_center, y, text)
+                                else:
+                                    # Text too long - need to wrap
+                                    # Split into words and wrap
+                                    words = artikull_text.split()
+                                    lines = []
+                                    current_line = ""
+
+                                    for word in words:
+                                        test_line = current_line + " " + word if current_line else word
+                                        test_width = c.stringWidth(test_line, font_name, font_size)
+
+                                        if test_width <= max_artikull_width:
+                                            current_line = test_line
+                                        else:
+                                            if current_line:
+                                                lines.append(current_line)
+                                            current_line = word
+
+                                    if current_line:
+                                        lines.append(current_line)
+
+                                    # Draw first line with other columns
+                                    if lines:
+                                        c.drawString(x_pos_artikull, y, lines[0])
+
+                                        # Draw other columns on first line
+                                        for i in range(1, len(cell_texts)):
+                                            text = cell_texts[i]
+                                            x_pos = margin + (i * col_width)
+                                            x_center = x_pos + (col_width / 2)
+                                            c.drawCentredString(x_center, y, text)
+
+                                        # Draw remaining lines of Artikull text (if any)
+                                        for additional_line in lines[1:]:
+                                            y -= (font_size * 0.35 + 0.8) * mm
+                                            c.drawString(x_pos_artikull, y, additional_line)
+
+                                # Add extra spacing after product row if in tbody
+                                if is_tbody_row:
+                                    y -= 2 * mm  # Extra spacing between products (green arrows in image)
                         else:
                             # Check if this is a tax summary table row (contains TVSH or Tipi keywords)
                             is_tax_table_row = any('TVSH' in text or 'Tipi' in text for text in cell_texts)
@@ -1064,15 +1183,50 @@ class PrinterHandler:
             from bs4 import BeautifulSoup
             soup = BeautifulSoup(html_content, 'html.parser')
 
-            # Add CSS to reduce font sizes
+            # Add CSS to adjust font sizes and improve text rendering
             style_tag = soup.new_tag('style')
             style_tag.string = """
+                /* Improve text rendering for better readability */
+                * {
+                    -webkit-font-smoothing: antialiased !important;
+                    -moz-osx-font-smoothing: grayscale !important;
+                    text-rendering: optimizeLegibility !important;
+                }
+
+                /* Center the "Fature" title */
+                h1 {
+                    text-align: center !important;
+                    font-size: 18px !important;
+                    margin: 5px 0 !important;
+                    font-weight: bold !important;
+                }
+
                 .title1 h1 {
                     font-size: 18px !important;
                     margin: 5px 0 !important;
+                    text-align: center !important;
                 }
+
                 .tds-footer {
                     font-size: 14px !important;
+                }
+
+                /* Increase Artikull column font size for Full Invoice (4-column table) */
+                .columnsPershkrim {
+                    font-size: 14px !important;
+                    font-weight: 600 !important;
+                }
+
+                /* Increase Artikull column font size for Fature Porosi (2-column table) */
+                .columnsPershkrim_urdhri {
+                    font-size: 15px !important;
+                    font-weight: 600 !important;
+                }
+
+                /* Improve overall text clarity */
+                body, td, th, p, span, div {
+                    -webkit-font-smoothing: antialiased !important;
+                    -moz-osx-font-smoothing: grayscale !important;
                 }
             """
 
@@ -1496,7 +1650,16 @@ class PrinterHandler:
                         # Multiple columns
                         if len(row_cells) == 4:
                             # 4 columns (Artikull, Sasia, Cmimi, Vlera)
-                            line = f"{row_cells[0]['text']:<20} {row_cells[1]['text']:>6} {row_cells[2]['text']:>8} {row_cells[3]['text']:>8}"
+                            # Don't truncate Artikull - let it wrap naturally
+                            # Format: Full Artikull text + aligned numeric columns
+                            artikull_full = row_cells[0]['text']
+                            sasia = row_cells[1]['text']
+                            cmimi = row_cells[2]['text']
+                            vlera = row_cells[3]['text']
+
+                            # Build line with full Artikull text (no truncation)
+                            # Only align the numeric columns
+                            line = f"{artikull_full}  {sasia:>6} {cmimi:>8} {vlera:>8}"
                         else:
                             # General multi-column formatting
                             line = "  ".join([cell['text'] for cell in row_cells])

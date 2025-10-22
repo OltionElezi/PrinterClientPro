@@ -121,3 +121,1165 @@
 2025-10-21 15:53:54,735 - INFO - 🔄 Connecting to https://socket.pss.al...
 2025-10-21 15:53:54,781 - ERROR - ❌ Connection failed: Already connected
 2025-10-21 15:53:57,490 - WARNING - ⚠️ Disconnected from server
+2025-10-21 22:18:04,794 - INFO - 🚀 Windows Printer Client GUI started
+2025-10-21 22:18:04,795 - INFO - 📍 Default Printer: BANAK
+2025-10-21 22:18:05,299 - INFO - 🔄 Auto-connecting to server on startup...
+2025-10-21 22:18:05,299 - INFO - 🔄 Connecting to https://socket.pss.al...
+2025-10-21 22:18:05,303 - ERROR - ❌ Connection failed: Connection error
+2025-10-21 22:18:05,304 - ERROR - ❌ Connection failed: Connection error
+2025-10-21 22:18:05,343 - INFO - 🔄 Connecting to https://socket.pss.al...
+2025-10-21 22:18:05,345 - ERROR - ❌ Connection failed: Connection error
+2025-10-21 22:18:05,351 - ERROR - ❌ Connection failed: Connection error
+2025-10-21 22:48:32,481 - INFO - 🔄 Connecting to https://socket.pss.al...
+2025-10-21 22:48:32,985 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 22:48:32,985 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 22:50:37,984 - WARNING - ⚠️ Disconnected from server
+2025-10-21 22:50:39,219 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 22:50:39,222 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 22:52:44,227 - WARNING - ⚠️ Disconnected from server
+2025-10-21 22:52:45,138 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 22:52:45,139 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 22:54:50,148 - WARNING - ⚠️ Disconnected from server
+2025-10-21 22:54:51,519 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 22:54:51,520 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 22:56:56,532 - WARNING - ⚠️ Disconnected from server
+2025-10-21 22:56:57,802 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 22:56:57,803 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 22:59:02,846 - WARNING - ⚠️ Disconnected from server
+2025-10-21 22:59:04,055 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 22:59:04,056 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 23:01:09,084 - WARNING - ⚠️ Disconnected from server
+2025-10-21 23:01:10,419 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 23:01:10,420 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 23:03:15,646 - WARNING - ⚠️ Disconnected from server
+2025-10-21 23:03:16,844 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 23:03:16,845 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 23:05:21,851 - WARNING - ⚠️ Disconnected from server
+2025-10-21 23:05:23,671 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 23:05:23,671 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 23:07:28,682 - WARNING - ⚠️ Disconnected from server
+2025-10-21 23:07:30,033 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 23:07:30,034 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 23:09:35,037 - WARNING - ⚠️ Disconnected from server
+2025-10-21 23:09:36,558 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 23:09:36,559 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 23:11:41,561 - WARNING - ⚠️ Disconnected from server
+2025-10-21 23:11:42,599 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 23:11:42,600 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 23:13:47,594 - WARNING - ⚠️ Disconnected from server
+2025-10-21 23:13:49,264 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 23:13:49,265 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 23:15:54,281 - WARNING - ⚠️ Disconnected from server
+2025-10-21 23:15:55,958 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 23:15:55,959 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 23:18:00,997 - WARNING - ⚠️ Disconnected from server
+2025-10-21 23:18:03,012 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 23:18:03,013 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 23:20:07,990 - WARNING - ⚠️ Disconnected from server
+2025-10-21 23:20:09,477 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 23:20:09,478 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 23:22:14,481 - WARNING - ⚠️ Disconnected from server
+2025-10-21 23:22:15,588 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 23:22:15,589 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 23:24:20,607 - WARNING - ⚠️ Disconnected from server
+2025-10-21 23:24:22,333 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 23:24:22,334 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 23:26:27,345 - WARNING - ⚠️ Disconnected from server
+2025-10-21 23:26:28,631 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 23:26:28,632 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 23:28:33,644 - WARNING - ⚠️ Disconnected from server
+2025-10-21 23:28:35,222 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 23:28:35,223 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 23:30:40,240 - WARNING - ⚠️ Disconnected from server
+2025-10-21 23:30:41,795 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 23:30:41,801 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 23:32:46,819 - WARNING - ⚠️ Disconnected from server
+2025-10-21 23:32:48,596 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 23:32:48,597 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 23:34:53,820 - WARNING - ⚠️ Disconnected from server
+2025-10-21 23:34:55,496 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 23:34:55,521 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 23:37:00,537 - WARNING - ⚠️ Disconnected from server
+2025-10-21 23:37:02,158 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 23:37:02,159 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 23:39:07,204 - WARNING - ⚠️ Disconnected from server
+2025-10-21 23:39:08,211 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 23:39:08,212 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 23:41:13,333 - WARNING - ⚠️ Disconnected from server
+2025-10-21 23:41:14,892 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 23:41:14,893 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 23:43:20,043 - WARNING - ⚠️ Disconnected from server
+2025-10-21 23:43:21,862 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 23:43:21,863 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 23:45:26,871 - WARNING - ⚠️ Disconnected from server
+2025-10-21 23:45:28,070 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 23:45:28,071 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 23:47:33,075 - WARNING - ⚠️ Disconnected from server
+2025-10-21 23:47:34,736 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 23:47:34,736 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 23:49:39,756 - WARNING - ⚠️ Disconnected from server
+2025-10-21 23:49:41,363 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 23:49:41,364 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 23:51:46,602 - WARNING - ⚠️ Disconnected from server
+2025-10-21 23:51:48,475 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 23:51:48,476 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 23:53:53,616 - WARNING - ⚠️ Disconnected from server
+2025-10-21 23:53:54,677 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 23:53:54,678 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 23:55:59,682 - WARNING - ⚠️ Disconnected from server
+2025-10-21 23:56:00,711 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 23:56:00,712 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 23:58:05,767 - WARNING - ⚠️ Disconnected from server
+2025-10-21 23:58:06,892 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 23:58:06,893 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 00:00:11,898 - WARNING - ⚠️ Disconnected from server
+2025-10-22 00:00:13,765 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 00:00:13,765 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 00:02:18,779 - WARNING - ⚠️ Disconnected from server
+2025-10-22 00:02:20,602 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 00:02:20,603 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 00:04:25,916 - WARNING - ⚠️ Disconnected from server
+2025-10-22 00:04:27,360 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 00:04:27,361 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 00:06:32,387 - WARNING - ⚠️ Disconnected from server
+2025-10-22 00:06:33,577 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 00:06:33,578 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 00:08:38,704 - WARNING - ⚠️ Disconnected from server
+2025-10-22 00:08:39,613 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 00:08:39,614 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 00:10:44,629 - WARNING - ⚠️ Disconnected from server
+2025-10-22 00:10:45,741 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 00:10:45,743 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 00:12:50,757 - WARNING - ⚠️ Disconnected from server
+2025-10-22 00:12:51,981 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 00:12:51,982 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 00:14:57,263 - WARNING - ⚠️ Disconnected from server
+2025-10-22 00:14:58,511 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 00:14:58,512 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 00:17:03,658 - WARNING - ⚠️ Disconnected from server
+2025-10-22 00:17:04,594 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 00:17:04,594 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 00:19:09,730 - WARNING - ⚠️ Disconnected from server
+2025-10-22 00:19:11,315 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 00:19:11,315 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 00:21:16,447 - WARNING - ⚠️ Disconnected from server
+2025-10-22 00:21:17,876 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 00:21:17,876 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 08:45:23,474 - WARNING - ⚠️ Disconnected from server
+2025-10-22 08:45:25,784 - ERROR - ❌ Connection failed: Connection error
+2025-10-22 08:45:28,233 - ERROR - ❌ Connection failed: Connection error
+2025-10-22 08:45:32,427 - ERROR - ❌ Connection failed: Connection error
+2025-10-22 08:45:37,872 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 08:45:37,873 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 08:47:42,875 - WARNING - ⚠️ Disconnected from server
+2025-10-22 08:47:44,137 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 08:47:44,138 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 08:49:49,149 - WARNING - ⚠️ Disconnected from server
+2025-10-22 08:49:50,300 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 08:49:50,301 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 08:51:55,315 - WARNING - ⚠️ Disconnected from server
+2025-10-22 08:51:56,191 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 08:51:56,192 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 08:54:01,200 - WARNING - ⚠️ Disconnected from server
+2025-10-22 08:54:02,016 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 08:54:02,017 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 08:56:07,025 - WARNING - ⚠️ Disconnected from server
+2025-10-22 08:56:07,805 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 08:56:07,806 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 08:58:12,812 - WARNING - ⚠️ Disconnected from server
+2025-10-22 08:58:13,925 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 08:58:13,926 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 09:00:18,933 - WARNING - ⚠️ Disconnected from server
+2025-10-22 09:00:19,757 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 09:00:19,758 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 09:02:24,769 - WARNING - ⚠️ Disconnected from server
+2025-10-22 09:02:26,020 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 09:02:26,021 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 09:04:31,028 - WARNING - ⚠️ Disconnected from server
+2025-10-22 09:04:32,398 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 09:04:32,398 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 09:06:37,405 - WARNING - ⚠️ Disconnected from server
+2025-10-22 09:06:39,067 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 09:06:39,067 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 09:08:44,069 - WARNING - ⚠️ Disconnected from server
+2025-10-22 09:08:45,662 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 09:08:45,663 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 09:10:50,673 - WARNING - ⚠️ Disconnected from server
+2025-10-22 09:10:51,389 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 09:10:51,390 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 09:12:56,405 - WARNING - ⚠️ Disconnected from server
+2025-10-22 09:12:57,603 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 09:12:57,603 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 09:15:02,611 - WARNING - ⚠️ Disconnected from server
+2025-10-22 09:15:03,725 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 09:15:03,725 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 09:17:08,732 - WARNING - ⚠️ Disconnected from server
+2025-10-22 09:17:10,206 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 09:17:10,207 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 09:19:15,218 - WARNING - ⚠️ Disconnected from server
+2025-10-22 09:19:16,495 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 09:19:16,495 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 09:22:49,136 - WARNING - ⚠️ Disconnected from server
+2025-10-22 09:22:50,632 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 09:22:50,634 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 09:24:55,641 - WARNING - ⚠️ Disconnected from server
+2025-10-22 09:24:56,498 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 09:24:56,499 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 09:26:29,903 - INFO - 🖨️ Print request received
+2025-10-22 09:26:29,904 - INFO -    Type: html
+2025-10-22 09:26:29,915 - INFO -    Printer: Banak
+2025-10-22 09:26:29,942 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-22 09:26:29,944 - INFO - 📄 Converting HTML to PDF...
+2025-10-22 09:26:29,948 - INFO -    HTML length: 5913 characters
+2025-10-22 09:26:30,024 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-22 09:26:30,025 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-22 09:26:30,038 - WARNING - ⚠️ wkhtmltopdf conversion failed: Exception: pdfkit library not installed
+2025-10-22 09:26:30,068 - DEBUG - Traceback:
+Traceback (most recent call last):
+  File "printer_handler.py", line 1128, in _convert_html_to_pdf_wkhtmltopdf
+ModuleNotFoundError: No module named 'pdfkit'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "printer_handler.py", line 405, in _convert_html_to_pdf
+  File "printer_handler.py", line 1281, in _convert_html_to_pdf_wkhtmltopdf
+Exception: pdfkit library not installed
+
+2025-10-22 09:26:30,068 - INFO - 🔄 Falling back to ReportLab renderer...
+2025-10-22 09:26:30,555 - INFO - 📊 Using optimized table-based receipt renderer
+2025-10-22 09:26:30,626 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-22 09:26:30,626 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-22 09:26:30,629 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-22 09:26:30,632 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-22 09:26:30,636 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-22 09:26:30,640 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-22 09:26:30,645 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-22 09:26:30,649 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-22 09:26:30,655 - INFO - Using font scale: 0.95 (95%)
+2025-10-22 09:26:30,672 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmp20x7cb0h.pdf
+2025-10-22 09:26:30,675 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmp20x7cb0h.pdf (2631 bytes)
+2025-10-22 09:26:30,677 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-22 09:26:30,681 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-22 09:26:30,685 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 09:26:30,713 - INFO - ✅ Found SumatraPDF at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 09:26:30,717 - INFO - 🖨️ Using SumatraPDF to print PDF to BANAK...
+2025-10-22 09:26:31,403 - INFO - ✅ PDF printed successfully using SumatraPDF to BANAK
+2025-10-22 09:26:31,403 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-22 09:26:33,407 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmp20x7cb0h.pdf
+2025-10-22 09:26:33,407 - INFO - ✅ Print job completed successfully
+2025-10-22 09:26:33,423 - DEBUG - Could not get jobs for BANAK: No module named 'win32timezone'
+2025-10-22 09:27:09,212 - INFO - 🗑️ Log cleared
+2025-10-22 09:28:27,360 - INFO - 🖨️ Print request received
+2025-10-22 09:28:27,360 - INFO -    Type: html
+2025-10-22 09:28:27,363 - INFO -    Printer: Banak
+2025-10-22 09:28:27,368 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-22 09:28:27,369 - INFO - 📄 Converting HTML to PDF...
+2025-10-22 09:28:27,376 - INFO -    HTML length: 4459 characters
+2025-10-22 09:28:27,383 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-22 09:28:27,384 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-22 09:28:27,385 - WARNING - ⚠️ wkhtmltopdf conversion failed: Exception: pdfkit library not installed
+2025-10-22 09:28:27,391 - DEBUG - Traceback:
+Traceback (most recent call last):
+  File "printer_handler.py", line 1128, in _convert_html_to_pdf_wkhtmltopdf
+ModuleNotFoundError: No module named 'pdfkit'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "printer_handler.py", line 405, in _convert_html_to_pdf
+  File "printer_handler.py", line 1281, in _convert_html_to_pdf_wkhtmltopdf
+Exception: pdfkit library not installed
+
+2025-10-22 09:28:27,392 - INFO - 🔄 Falling back to ReportLab renderer...
+2025-10-22 09:28:27,395 - INFO - 📊 Using optimized table-based receipt renderer
+2025-10-22 09:28:27,398 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-22 09:28:27,406 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-22 09:28:27,413 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-22 09:28:27,413 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-22 09:28:27,415 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-22 09:28:27,416 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-22 09:28:27,417 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-22 09:28:27,419 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-22 09:28:27,422 - INFO - Using font scale: 0.95 (95%)
+2025-10-22 09:28:27,431 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmpftul_hn6.pdf
+2025-10-22 09:28:27,440 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmpftul_hn6.pdf (1873 bytes)
+2025-10-22 09:28:27,452 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-22 09:28:27,464 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-22 09:28:27,467 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 09:28:27,482 - INFO - ✅ Found SumatraPDF at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 09:28:27,486 - INFO - 🖨️ Using SumatraPDF to print PDF to BANAK...
+2025-10-22 09:28:27,774 - INFO - ✅ PDF printed successfully using SumatraPDF to BANAK
+2025-10-22 09:28:27,774 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-22 09:28:29,778 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmpftul_hn6.pdf
+2025-10-22 09:28:29,779 - INFO - ✅ Print job completed successfully
+2025-10-22 09:28:29,800 - DEBUG - Could not get jobs for BANAK: No module named 'win32timezone'
+2025-10-22 09:28:44,919 - WARNING - ⚠️ Disconnected from server
+2025-10-22 09:28:44,992 - INFO - 🔌 Disconnected from server
+2025-10-22 09:44:38,598 - INFO - 🔄 Connecting to https://socket.pss.al...
+2025-10-22 09:44:38,826 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 09:44:38,827 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 09:44:50,237 - WARNING - ⚠️ Disconnected from server
+2025-10-22 09:44:50,269 - INFO - 🔌 Disconnected from server
+2025-10-22 09:44:51,294 - INFO - 🔄 Connecting to https://socket.pss.al...
+2025-10-22 09:44:51,502 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 09:44:51,503 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 09:46:56,509 - WARNING - ⚠️ Disconnected from server
+2025-10-22 09:46:57,845 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 09:46:57,846 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 09:49:02,855 - WARNING - ⚠️ Disconnected from server
+2025-10-22 09:49:04,555 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 09:49:04,556 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 09:51:09,567 - WARNING - ⚠️ Disconnected from server
+2025-10-22 09:51:10,339 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 09:51:10,340 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 09:52:19,211 - INFO - 💾 Configuration saved to: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\.env
+2025-10-22 09:52:25,793 - WARNING - ⚠️ Disconnected from server
+2025-10-22 09:52:25,825 - INFO - 🔌 Disconnected from server
+2025-10-22 09:52:26,282 - INFO - 🔄 Connecting to http://127.0.0.1:5001/test...
+2025-10-22 09:52:26,296 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 09:52:26,296 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 09:52:28,316 - INFO - 💾 Configuration saved to: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\.env
+2025-10-22 09:52:44,843 - INFO - 🖨️ Print request received
+2025-10-22 09:52:44,844 - INFO -    Type: html
+2025-10-22 09:52:44,847 - INFO -    Printer: Banak
+2025-10-22 09:52:44,853 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-22 09:52:44,854 - INFO - 📄 Converting HTML to PDF...
+2025-10-22 09:52:44,855 - INFO -    HTML length: 4480 characters
+2025-10-22 09:52:44,862 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-22 09:52:44,862 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-22 09:52:44,864 - WARNING - ⚠️ wkhtmltopdf conversion failed: Exception: pdfkit library not installed
+2025-10-22 09:52:44,871 - DEBUG - Traceback:
+Traceback (most recent call last):
+  File "printer_handler.py", line 1128, in _convert_html_to_pdf_wkhtmltopdf
+ModuleNotFoundError: No module named 'pdfkit'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "printer_handler.py", line 405, in _convert_html_to_pdf
+  File "printer_handler.py", line 1281, in _convert_html_to_pdf_wkhtmltopdf
+Exception: pdfkit library not installed
+
+2025-10-22 09:52:44,873 - INFO - 🔄 Falling back to ReportLab renderer...
+2025-10-22 09:52:44,885 - INFO - 📊 Using optimized table-based receipt renderer
+2025-10-22 09:52:44,890 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-22 09:52:44,890 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-22 09:52:44,900 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-22 09:52:44,901 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-22 09:52:44,903 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-22 09:52:44,905 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-22 09:52:44,906 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-22 09:52:44,909 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-22 09:52:44,913 - INFO - Using font scale: 0.95 (95%)
+2025-10-22 09:52:44,926 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmp1cfh5u9b.pdf
+2025-10-22 09:52:44,938 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmp1cfh5u9b.pdf (1910 bytes)
+2025-10-22 09:52:44,938 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-22 09:52:44,944 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-22 09:52:44,949 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 09:52:44,954 - INFO - ✅ Found SumatraPDF at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 09:52:44,960 - INFO - 🖨️ Using SumatraPDF to print PDF to BANAK...
+2025-10-22 09:52:45,556 - INFO - ✅ PDF printed successfully using SumatraPDF to BANAK
+2025-10-22 09:52:45,563 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-22 09:52:47,571 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmp1cfh5u9b.pdf
+2025-10-22 09:52:47,572 - INFO - ✅ Print job completed successfully
+2025-10-22 09:52:47,603 - DEBUG - Could not get jobs for BANAK: No module named 'win32timezone'
+2025-10-22 09:52:56,484 - INFO - 🧪 Testing printer: BANAK
+2025-10-22 09:52:56,490 - INFO - Printing to: BANAK (Status: Error)
+2025-10-22 09:52:56,490 - WARNING - Printer 'BANAK' is not ready (Status: Error). Adding to queue.
+2025-10-22 09:52:56,491 - INFO - Added to queue: BANAK (Queue size: 1)
+2025-10-22 09:52:56,491 - ERROR - ❌ Test print failed for BANAK
+2025-10-22 09:52:56,497 - DEBUG - Could not get jobs for BANAK: No module named 'win32timezone'
+2025-10-22 09:52:58,183 - DEBUG - Could not get jobs for BANAK: No module named 'win32timezone'
+2025-10-22 09:53:00,113 - INFO - Printing to: BANAK (Status: Error)
+2025-10-22 09:53:00,113 - WARNING - Printer 'BANAK' is not ready (Status: Error). Adding to queue.
+2025-10-22 09:53:00,113 - INFO - Added to queue: BANAK (Queue size: 2)
+2025-10-22 09:53:00,113 - WARNING - Queue item 0 failed again
+2025-10-22 09:53:00,113 - ERROR - ❌ Failed to retry queue item 0
+2025-10-22 09:53:00,118 - DEBUG - Could not get jobs for BANAK: No module named 'win32timezone'
+2025-10-22 09:53:00,132 - DEBUG - Could not get jobs for BANAK: No module named 'win32timezone'
+2025-10-22 09:53:01,344 - DEBUG - Could not get jobs for BANAK: No module named 'win32timezone'
+2025-10-22 09:53:01,344 - INFO - 🗑️ Removed queue item 0
+2025-10-22 09:53:01,364 - DEBUG - Could not get jobs for BANAK: No module named 'win32timezone'
+2025-10-22 09:53:02,745 - INFO - Cleared 2 items from queue
+2025-10-22 09:53:02,745 - INFO - 🗑️ Queue cleared
+2025-10-22 09:53:02,766 - DEBUG - Could not get jobs for BANAK: No module named 'win32timezone'
+2025-10-22 09:54:04,901 - WARNING - ⚠️ Disconnected from server
+2025-10-22 09:54:04,903 - INFO - 🔌 Disconnected from server
+2025-10-22 09:54:05,526 - INFO - 🔄 Connecting to http://127.0.0.1:5001/test...
+2025-10-22 09:54:05,552 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 09:54:05,553 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 09:54:12,107 - INFO - 🖨️ Print request received
+2025-10-22 09:54:12,108 - INFO -    Type: html
+2025-10-22 09:54:12,114 - INFO -    Printer: BANAK
+2025-10-22 09:54:12,121 - INFO - Printing to: BANAK (Status: Error)
+2025-10-22 09:54:12,123 - WARNING - Printer 'BANAK' is not ready (Status: Error). Adding to queue.
+2025-10-22 09:54:12,123 - INFO - Added to queue: BANAK (Queue size: 1)
+2025-10-22 09:54:12,124 - ERROR - ❌ Print job failed
+2025-10-22 09:54:12,134 - DEBUG - Could not get jobs for BANAK: No module named 'win32timezone'
+2025-10-22 09:54:23,504 - INFO - ⚙️ Opening properties for: BANAK
+2025-10-22 09:56:31,098 - INFO - 🖨️ Print request received
+2025-10-22 09:56:31,100 - INFO -    Type: html
+2025-10-22 09:56:31,102 - INFO -    Printer: BANAK
+2025-10-22 09:56:31,107 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-22 09:56:31,108 - INFO - 📄 Converting HTML to PDF...
+2025-10-22 09:56:31,109 - INFO -    HTML length: 4480 characters
+2025-10-22 09:56:31,112 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-22 09:56:31,113 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-22 09:56:31,119 - WARNING - ⚠️ wkhtmltopdf conversion failed: Exception: pdfkit library not installed
+2025-10-22 09:56:31,121 - DEBUG - Traceback:
+Traceback (most recent call last):
+  File "printer_handler.py", line 1128, in _convert_html_to_pdf_wkhtmltopdf
+ModuleNotFoundError: No module named 'pdfkit'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "printer_handler.py", line 405, in _convert_html_to_pdf
+  File "printer_handler.py", line 1281, in _convert_html_to_pdf_wkhtmltopdf
+Exception: pdfkit library not installed
+
+2025-10-22 09:56:31,121 - INFO - 🔄 Falling back to ReportLab renderer...
+2025-10-22 09:56:31,128 - INFO - 📊 Using optimized table-based receipt renderer
+2025-10-22 09:56:31,139 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-22 09:56:31,140 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-22 09:56:31,143 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-22 09:56:31,149 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-22 09:56:31,153 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-22 09:56:31,158 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-22 09:56:31,162 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-22 09:56:31,168 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-22 09:56:31,176 - INFO - Using font scale: 0.95 (95%)
+2025-10-22 09:56:31,189 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmpgec3ta_k.pdf
+2025-10-22 09:56:31,191 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmpgec3ta_k.pdf (1914 bytes)
+2025-10-22 09:56:31,194 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-22 09:56:31,202 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-22 09:56:31,205 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 09:56:31,210 - INFO - ✅ Found SumatraPDF at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 09:56:31,213 - INFO - 🖨️ Using SumatraPDF to print PDF to BANAK...
+2025-10-22 09:56:31,554 - INFO - ✅ PDF printed successfully using SumatraPDF to BANAK
+2025-10-22 09:56:31,554 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-22 09:56:33,558 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmpgec3ta_k.pdf
+2025-10-22 09:56:33,559 - INFO - ✅ Print job completed successfully
+2025-10-22 10:02:00,980 - INFO - 🖨️ Print request received
+2025-10-22 10:02:00,980 - INFO -    Type: html
+2025-10-22 10:02:00,985 - INFO -    Printer: BANAK
+2025-10-22 10:02:00,997 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-22 10:02:01,001 - INFO - 📄 Converting HTML to PDF...
+2025-10-22 10:02:01,008 - INFO -    HTML length: 4579 characters
+2025-10-22 10:02:01,020 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-22 10:02:01,025 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-22 10:02:01,035 - WARNING - ⚠️ wkhtmltopdf conversion failed: Exception: pdfkit library not installed
+2025-10-22 10:02:01,042 - DEBUG - Traceback:
+Traceback (most recent call last):
+  File "printer_handler.py", line 1128, in _convert_html_to_pdf_wkhtmltopdf
+ModuleNotFoundError: No module named 'pdfkit'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "printer_handler.py", line 405, in _convert_html_to_pdf
+  File "printer_handler.py", line 1281, in _convert_html_to_pdf_wkhtmltopdf
+Exception: pdfkit library not installed
+
+2025-10-22 10:02:01,047 - INFO - 🔄 Falling back to ReportLab renderer...
+2025-10-22 10:02:01,054 - INFO - 📊 Using optimized table-based receipt renderer
+2025-10-22 10:02:01,064 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-22 10:02:01,066 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-22 10:02:01,071 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-22 10:02:01,078 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-22 10:02:01,081 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-22 10:02:01,085 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-22 10:02:01,091 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-22 10:02:01,095 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-22 10:02:01,102 - INFO - Using font scale: 0.95 (95%)
+2025-10-22 10:02:01,110 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmpjjx6jbq5.pdf
+2025-10-22 10:02:01,113 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmpjjx6jbq5.pdf (1931 bytes)
+2025-10-22 10:02:01,117 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-22 10:02:01,121 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-22 10:02:01,126 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 10:02:01,131 - INFO - ✅ Found SumatraPDF at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 10:02:01,134 - INFO - 🖨️ Using SumatraPDF to print PDF to BANAK...
+2025-10-22 10:02:01,617 - INFO - ✅ PDF printed successfully using SumatraPDF to BANAK
+2025-10-22 10:02:01,617 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-22 10:02:03,623 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmpjjx6jbq5.pdf
+2025-10-22 10:02:03,623 - INFO - ✅ Print job completed successfully
+2025-10-22 10:02:20,110 - INFO - 🖨️ Print request received
+2025-10-22 10:02:20,111 - INFO -    Type: html
+2025-10-22 10:02:20,124 - INFO -    Printer: BANAK
+2025-10-22 10:02:20,179 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-22 10:02:20,180 - INFO - 📄 Converting HTML to PDF...
+2025-10-22 10:02:20,195 - INFO -    HTML length: 5181 characters
+2025-10-22 10:02:20,200 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-22 10:02:20,202 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-22 10:02:20,209 - WARNING - ⚠️ wkhtmltopdf conversion failed: Exception: pdfkit library not installed
+2025-10-22 10:02:20,215 - DEBUG - Traceback:
+Traceback (most recent call last):
+  File "printer_handler.py", line 1128, in _convert_html_to_pdf_wkhtmltopdf
+ModuleNotFoundError: No module named 'pdfkit'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "printer_handler.py", line 405, in _convert_html_to_pdf
+  File "printer_handler.py", line 1281, in _convert_html_to_pdf_wkhtmltopdf
+Exception: pdfkit library not installed
+
+2025-10-22 10:02:20,220 - INFO - 🔄 Falling back to ReportLab renderer...
+2025-10-22 10:02:20,227 - INFO - 📊 Using optimized table-based receipt renderer
+2025-10-22 10:02:20,233 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-22 10:02:20,234 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-22 10:02:20,238 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-22 10:02:20,242 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-22 10:02:20,247 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-22 10:02:20,251 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-22 10:02:20,256 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-22 10:02:20,259 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-22 10:02:20,267 - INFO - Using font scale: 0.95 (95%)
+2025-10-22 10:02:20,275 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmpgpz64p72.pdf
+2025-10-22 10:02:20,278 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmpgpz64p72.pdf (2344 bytes)
+2025-10-22 10:02:20,283 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-22 10:02:20,287 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-22 10:02:20,291 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 10:02:20,294 - INFO - ✅ Found SumatraPDF at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 10:02:20,299 - INFO - 🖨️ Using SumatraPDF to print PDF to BANAK...
+2025-10-22 10:02:20,625 - INFO - ✅ PDF printed successfully using SumatraPDF to BANAK
+2025-10-22 10:02:20,625 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-22 10:02:22,630 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmpgpz64p72.pdf
+2025-10-22 10:02:22,630 - INFO - ✅ Print job completed successfully
+2025-10-22 10:03:01,015 - INFO - 🖨️ Print request received
+2025-10-22 10:03:01,016 - INFO -    Type: html
+2025-10-22 10:03:01,020 - INFO -    Printer: BANAK
+2025-10-22 10:03:01,032 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-22 10:03:01,034 - INFO - 📄 Converting HTML to PDF...
+2025-10-22 10:03:01,039 - INFO -    HTML length: 4584 characters
+2025-10-22 10:03:01,047 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-22 10:03:01,052 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-22 10:03:01,059 - WARNING - ⚠️ wkhtmltopdf conversion failed: Exception: pdfkit library not installed
+2025-10-22 10:03:01,066 - DEBUG - Traceback:
+Traceback (most recent call last):
+  File "printer_handler.py", line 1128, in _convert_html_to_pdf_wkhtmltopdf
+ModuleNotFoundError: No module named 'pdfkit'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "printer_handler.py", line 405, in _convert_html_to_pdf
+  File "printer_handler.py", line 1281, in _convert_html_to_pdf_wkhtmltopdf
+Exception: pdfkit library not installed
+
+2025-10-22 10:03:01,072 - INFO - 🔄 Falling back to ReportLab renderer...
+2025-10-22 10:03:01,078 - INFO - 📊 Using optimized table-based receipt renderer
+2025-10-22 10:03:01,089 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-22 10:03:01,089 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-22 10:03:01,094 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-22 10:03:01,099 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-22 10:03:01,103 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-22 10:03:01,107 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-22 10:03:01,112 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-22 10:03:01,115 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-22 10:03:01,123 - INFO - Using font scale: 0.95 (95%)
+2025-10-22 10:03:01,128 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmptght4942.pdf
+2025-10-22 10:03:01,129 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmptght4942.pdf (1941 bytes)
+2025-10-22 10:03:01,131 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-22 10:03:01,136 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-22 10:03:01,141 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 10:03:01,145 - INFO - ✅ Found SumatraPDF at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 10:03:01,148 - INFO - 🖨️ Using SumatraPDF to print PDF to BANAK...
+2025-10-22 10:03:01,471 - INFO - ✅ PDF printed successfully using SumatraPDF to BANAK
+2025-10-22 10:03:01,472 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-22 10:03:03,477 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmptght4942.pdf
+2025-10-22 10:03:03,477 - INFO - ✅ Print job completed successfully
+2025-10-22 10:26:07,277 - INFO - 🖨️ Print request received
+2025-10-22 10:26:07,277 - INFO -    Type: html
+2025-10-22 10:26:07,278 - INFO -    Printer: BANAK
+2025-10-22 10:26:07,286 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-22 10:26:07,287 - INFO - 📄 Converting HTML to PDF...
+2025-10-22 10:26:07,287 - INFO -    HTML length: 4783 characters
+2025-10-22 10:26:07,291 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-22 10:26:07,291 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-22 10:26:07,294 - WARNING - ⚠️ wkhtmltopdf conversion failed: Exception: pdfkit library not installed
+2025-10-22 10:26:07,296 - DEBUG - Traceback:
+Traceback (most recent call last):
+  File "printer_handler.py", line 1128, in _convert_html_to_pdf_wkhtmltopdf
+ModuleNotFoundError: No module named 'pdfkit'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "printer_handler.py", line 405, in _convert_html_to_pdf
+  File "printer_handler.py", line 1281, in _convert_html_to_pdf_wkhtmltopdf
+Exception: pdfkit library not installed
+
+2025-10-22 10:26:07,297 - INFO - 🔄 Falling back to ReportLab renderer...
+2025-10-22 10:26:07,302 - INFO - 📊 Using optimized table-based receipt renderer
+2025-10-22 10:26:07,307 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-22 10:26:07,308 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-22 10:26:07,309 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-22 10:26:07,310 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-22 10:26:07,312 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-22 10:26:07,326 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-22 10:26:07,328 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-22 10:26:07,329 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-22 10:26:07,342 - INFO - Using font scale: 0.95 (95%)
+2025-10-22 10:26:07,355 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmpy34puh6h.pdf
+2025-10-22 10:26:07,361 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmpy34puh6h.pdf (1974 bytes)
+2025-10-22 10:26:07,371 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-22 10:26:07,375 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-22 10:26:07,379 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 10:26:07,384 - INFO - ✅ Found SumatraPDF at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 10:26:07,390 - INFO - 🖨️ Using SumatraPDF to print PDF to BANAK...
+2025-10-22 10:26:07,807 - INFO - ✅ PDF printed successfully using SumatraPDF to BANAK
+2025-10-22 10:26:07,808 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-22 10:26:09,813 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmpy34puh6h.pdf
+2025-10-22 10:26:09,814 - INFO - ✅ Print job completed successfully
+2025-10-22 10:28:46,071 - INFO - 🖨️ Print request received
+2025-10-22 10:28:46,072 - INFO -    Type: html
+2025-10-22 10:28:46,073 - INFO -    Printer: BANAK
+2025-10-22 10:28:46,078 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-22 10:28:46,078 - INFO - 📄 Converting HTML to PDF...
+2025-10-22 10:28:46,079 - INFO -    HTML length: 4611 characters
+2025-10-22 10:28:46,082 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-22 10:28:46,083 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-22 10:28:46,085 - WARNING - ⚠️ wkhtmltopdf conversion failed: Exception: pdfkit library not installed
+2025-10-22 10:28:46,091 - DEBUG - Traceback:
+Traceback (most recent call last):
+  File "printer_handler.py", line 1128, in _convert_html_to_pdf_wkhtmltopdf
+ModuleNotFoundError: No module named 'pdfkit'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "printer_handler.py", line 405, in _convert_html_to_pdf
+  File "printer_handler.py", line 1281, in _convert_html_to_pdf_wkhtmltopdf
+Exception: pdfkit library not installed
+
+2025-10-22 10:28:46,091 - INFO - 🔄 Falling back to ReportLab renderer...
+2025-10-22 10:28:46,097 - INFO - 📊 Using optimized table-based receipt renderer
+2025-10-22 10:28:46,104 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-22 10:28:46,104 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-22 10:28:46,105 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-22 10:28:46,106 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-22 10:28:46,108 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-22 10:28:46,124 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-22 10:28:46,125 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-22 10:28:46,127 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-22 10:28:46,133 - INFO - Using font scale: 0.95 (95%)
+2025-10-22 10:28:46,141 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmp0_ruqzxn.pdf
+2025-10-22 10:28:46,150 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmp0_ruqzxn.pdf (1939 bytes)
+2025-10-22 10:28:46,150 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-22 10:28:46,155 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-22 10:28:46,160 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 10:28:46,166 - INFO - ✅ Found SumatraPDF at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 10:28:46,172 - INFO - 🖨️ Using SumatraPDF to print PDF to BANAK...
+2025-10-22 10:28:46,534 - INFO - ✅ PDF printed successfully using SumatraPDF to BANAK
+2025-10-22 10:28:46,534 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-22 10:28:48,540 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmp0_ruqzxn.pdf
+2025-10-22 10:28:48,541 - INFO - ✅ Print job completed successfully
+2025-10-22 10:30:02,253 - INFO - 🖨️ Print request received
+2025-10-22 10:30:02,254 - INFO -    Type: html
+2025-10-22 10:30:02,257 - INFO -    Printer: BANAK
+2025-10-22 10:30:02,267 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-22 10:30:02,268 - INFO - 📄 Converting HTML to PDF...
+2025-10-22 10:30:02,274 - INFO -    HTML length: 4539 characters
+2025-10-22 10:30:02,281 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-22 10:30:02,285 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-22 10:30:02,291 - WARNING - ⚠️ wkhtmltopdf conversion failed: Exception: pdfkit library not installed
+2025-10-22 10:30:02,297 - DEBUG - Traceback:
+Traceback (most recent call last):
+  File "printer_handler.py", line 1128, in _convert_html_to_pdf_wkhtmltopdf
+ModuleNotFoundError: No module named 'pdfkit'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "printer_handler.py", line 405, in _convert_html_to_pdf
+  File "printer_handler.py", line 1281, in _convert_html_to_pdf_wkhtmltopdf
+Exception: pdfkit library not installed
+
+2025-10-22 10:30:02,303 - INFO - 🔄 Falling back to ReportLab renderer...
+2025-10-22 10:30:02,308 - INFO - 📊 Using optimized table-based receipt renderer
+2025-10-22 10:30:02,316 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-22 10:30:02,317 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-22 10:30:02,324 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-22 10:30:02,330 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-22 10:30:02,337 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-22 10:30:02,343 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-22 10:30:02,348 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-22 10:30:02,354 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-22 10:30:02,363 - INFO - Using font scale: 0.95 (95%)
+2025-10-22 10:30:02,372 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmphs4k35_z.pdf
+2025-10-22 10:30:02,385 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmphs4k35_z.pdf (1930 bytes)
+2025-10-22 10:30:02,389 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-22 10:30:02,393 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-22 10:30:02,397 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 10:30:02,403 - INFO - ✅ Found SumatraPDF at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 10:30:02,407 - INFO - 🖨️ Using SumatraPDF to print PDF to BANAK...
+2025-10-22 10:30:02,822 - INFO - ✅ PDF printed successfully using SumatraPDF to BANAK
+2025-10-22 10:30:02,823 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-22 10:30:04,828 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmphs4k35_z.pdf
+2025-10-22 10:30:04,828 - INFO - ✅ Print job completed successfully
+2025-10-22 10:30:35,252 - INFO - 🖨️ Print request received
+2025-10-22 10:30:35,252 - INFO -    Type: html
+2025-10-22 10:30:35,257 - INFO -    Printer: BANAK
+2025-10-22 10:30:35,266 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-22 10:30:35,271 - INFO - 📄 Converting HTML to PDF...
+2025-10-22 10:30:35,279 - INFO -    HTML length: 4480 characters
+2025-10-22 10:30:35,289 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-22 10:30:35,292 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-22 10:30:35,301 - WARNING - ⚠️ wkhtmltopdf conversion failed: Exception: pdfkit library not installed
+2025-10-22 10:30:35,307 - DEBUG - Traceback:
+Traceback (most recent call last):
+  File "printer_handler.py", line 1128, in _convert_html_to_pdf_wkhtmltopdf
+ModuleNotFoundError: No module named 'pdfkit'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "printer_handler.py", line 405, in _convert_html_to_pdf
+  File "printer_handler.py", line 1281, in _convert_html_to_pdf_wkhtmltopdf
+Exception: pdfkit library not installed
+
+2025-10-22 10:30:35,313 - INFO - 🔄 Falling back to ReportLab renderer...
+2025-10-22 10:30:35,320 - INFO - 📊 Using optimized table-based receipt renderer
+2025-10-22 10:30:35,345 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-22 10:30:35,349 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-22 10:30:35,352 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-22 10:30:35,356 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-22 10:30:35,361 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-22 10:30:35,365 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-22 10:30:35,369 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-22 10:30:35,373 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-22 10:30:35,380 - INFO - Using font scale: 0.95 (95%)
+2025-10-22 10:30:35,387 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmpe969mz6m.pdf
+2025-10-22 10:30:35,389 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmpe969mz6m.pdf (1910 bytes)
+2025-10-22 10:30:35,393 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-22 10:30:35,397 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-22 10:30:35,400 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 10:30:35,403 - INFO - ✅ Found SumatraPDF at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 10:30:35,408 - INFO - 🖨️ Using SumatraPDF to print PDF to BANAK...
+2025-10-22 10:30:35,732 - INFO - ✅ PDF printed successfully using SumatraPDF to BANAK
+2025-10-22 10:30:35,733 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-22 10:30:37,738 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmpe969mz6m.pdf
+2025-10-22 10:30:37,739 - INFO - ✅ Print job completed successfully
+2025-10-22 10:30:46,376 - INFO - 🖨️ Print request received
+2025-10-22 10:30:46,376 - INFO -    Type: html
+2025-10-22 10:30:46,381 - INFO -    Printer: BANAK
+2025-10-22 10:30:46,403 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-22 10:30:46,403 - INFO - 📄 Converting HTML to PDF...
+2025-10-22 10:30:46,409 - INFO -    HTML length: 4552 characters
+2025-10-22 10:30:46,417 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-22 10:30:46,421 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-22 10:30:46,427 - WARNING - ⚠️ wkhtmltopdf conversion failed: Exception: pdfkit library not installed
+2025-10-22 10:30:46,452 - DEBUG - Traceback:
+Traceback (most recent call last):
+  File "printer_handler.py", line 1128, in _convert_html_to_pdf_wkhtmltopdf
+ModuleNotFoundError: No module named 'pdfkit'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "printer_handler.py", line 405, in _convert_html_to_pdf
+  File "printer_handler.py", line 1281, in _convert_html_to_pdf_wkhtmltopdf
+Exception: pdfkit library not installed
+
+2025-10-22 10:30:46,457 - INFO - 🔄 Falling back to ReportLab renderer...
+2025-10-22 10:30:46,465 - INFO - 📊 Using optimized table-based receipt renderer
+2025-10-22 10:30:46,476 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-22 10:30:46,477 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-22 10:30:46,480 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-22 10:30:46,497 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-22 10:30:46,501 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-22 10:30:46,506 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-22 10:30:46,510 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-22 10:30:46,514 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-22 10:30:46,523 - INFO - Using font scale: 0.95 (95%)
+2025-10-22 10:30:46,535 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmpkbmxwg0z.pdf
+2025-10-22 10:30:46,544 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmpkbmxwg0z.pdf (1931 bytes)
+2025-10-22 10:30:46,548 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-22 10:30:46,553 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-22 10:30:46,558 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 10:30:46,564 - INFO - ✅ Found SumatraPDF at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 10:30:46,568 - INFO - 🖨️ Using SumatraPDF to print PDF to BANAK...
+2025-10-22 10:30:46,889 - INFO - ✅ PDF printed successfully using SumatraPDF to BANAK
+2025-10-22 10:30:46,890 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-22 10:30:48,895 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmpkbmxwg0z.pdf
+2025-10-22 10:30:48,896 - INFO - ✅ Print job completed successfully
+2025-10-22 10:31:56,720 - INFO - 🖨️ Print request received
+2025-10-22 10:31:56,723 - INFO -    Type: html
+2025-10-22 10:31:56,727 - INFO -    Printer: BANAK
+2025-10-22 10:31:56,739 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-22 10:31:56,741 - INFO - 📄 Converting HTML to PDF...
+2025-10-22 10:31:56,748 - INFO -    HTML length: 4480 characters
+2025-10-22 10:31:56,758 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-22 10:31:56,763 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-22 10:31:56,770 - WARNING - ⚠️ wkhtmltopdf conversion failed: Exception: pdfkit library not installed
+2025-10-22 10:31:56,777 - DEBUG - Traceback:
+Traceback (most recent call last):
+  File "printer_handler.py", line 1128, in _convert_html_to_pdf_wkhtmltopdf
+ModuleNotFoundError: No module named 'pdfkit'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "printer_handler.py", line 405, in _convert_html_to_pdf
+  File "printer_handler.py", line 1281, in _convert_html_to_pdf_wkhtmltopdf
+Exception: pdfkit library not installed
+
+2025-10-22 10:31:56,782 - INFO - 🔄 Falling back to ReportLab renderer...
+2025-10-22 10:31:56,789 - INFO - 📊 Using optimized table-based receipt renderer
+2025-10-22 10:31:56,796 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-22 10:31:56,798 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-22 10:31:56,803 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-22 10:31:56,808 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-22 10:31:56,815 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-22 10:31:56,820 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-22 10:31:56,844 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-22 10:31:56,858 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-22 10:31:56,877 - INFO - Using font scale: 0.95 (95%)
+2025-10-22 10:31:56,887 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmpefqbol3w.pdf
+2025-10-22 10:31:56,888 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmpefqbol3w.pdf (1910 bytes)
+2025-10-22 10:31:56,894 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-22 10:31:56,899 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-22 10:31:56,903 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 10:31:56,910 - INFO - ✅ Found SumatraPDF at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 10:31:56,916 - INFO - 🖨️ Using SumatraPDF to print PDF to BANAK...
+2025-10-22 10:31:57,294 - INFO - ✅ PDF printed successfully using SumatraPDF to BANAK
+2025-10-22 10:31:57,295 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-22 10:31:59,299 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmpefqbol3w.pdf
+2025-10-22 10:31:59,300 - INFO - ✅ Print job completed successfully
+2025-10-22 10:32:09,322 - INFO - 🖨️ Print request received
+2025-10-22 10:32:09,323 - INFO -    Type: html
+2025-10-22 10:32:09,330 - INFO -    Printer: BANAK
+2025-10-22 10:32:09,343 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-22 10:32:09,345 - INFO - 📄 Converting HTML to PDF...
+2025-10-22 10:32:09,352 - INFO -    HTML length: 4529 characters
+2025-10-22 10:32:09,366 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-22 10:32:09,370 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-22 10:32:09,381 - WARNING - ⚠️ wkhtmltopdf conversion failed: Exception: pdfkit library not installed
+2025-10-22 10:32:09,388 - DEBUG - Traceback:
+Traceback (most recent call last):
+  File "printer_handler.py", line 1128, in _convert_html_to_pdf_wkhtmltopdf
+ModuleNotFoundError: No module named 'pdfkit'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "printer_handler.py", line 405, in _convert_html_to_pdf
+  File "printer_handler.py", line 1281, in _convert_html_to_pdf_wkhtmltopdf
+Exception: pdfkit library not installed
+
+2025-10-22 10:32:09,393 - INFO - 🔄 Falling back to ReportLab renderer...
+2025-10-22 10:32:09,400 - INFO - 📊 Using optimized table-based receipt renderer
+2025-10-22 10:32:09,411 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-22 10:32:09,412 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-22 10:32:09,417 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-22 10:32:09,423 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-22 10:32:09,429 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-22 10:32:09,448 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-22 10:32:09,452 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-22 10:32:09,456 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-22 10:32:09,463 - INFO - Using font scale: 0.95 (95%)
+2025-10-22 10:32:09,469 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmp6lkgzsm0.pdf
+2025-10-22 10:32:09,471 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmp6lkgzsm0.pdf (1928 bytes)
+2025-10-22 10:32:09,475 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-22 10:32:09,480 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-22 10:32:09,483 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 10:32:09,487 - INFO - ✅ Found SumatraPDF at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 10:32:09,493 - INFO - 🖨️ Using SumatraPDF to print PDF to BANAK...
+2025-10-22 10:32:09,798 - INFO - ✅ PDF printed successfully using SumatraPDF to BANAK
+2025-10-22 10:32:09,799 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-22 10:32:11,803 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmp6lkgzsm0.pdf
+2025-10-22 10:32:11,804 - INFO - ✅ Print job completed successfully
+2025-10-22 14:14:10,118 - INFO - 💾 Configuration saved to: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\.env
+2025-10-22 14:14:38,050 - INFO - 💾 Configuration saved to: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\.env
+2025-10-22 14:14:53,490 - INFO - ⚙️ Opening properties for: BANAK
+2025-10-22 14:14:56,842 - INFO - ⚙️ Opening properties for: BANAK
+2025-10-22 14:15:23,838 - INFO - 🧪 Sending test print to BANAK...
+2025-10-22 14:15:23,847 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-22 14:15:24,139 - INFO - Print job completed successfully: Test Print
+2025-10-22 14:15:24,142 - INFO - ✅ Test print sent successfully
+2025-10-22 14:15:24,156 - DEBUG - Could not get jobs for BANAK: No module named 'win32timezone'
+2025-10-22 14:15:45,078 - INFO - 💾 Configuration saved to: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\.env
+2025-10-22 14:15:47,982 - INFO - 💾 Configuration saved to: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\.env
+2025-10-22 14:16:06,945 - INFO - 🗑️ Log cleared
+2025-10-22 14:16:07,181 - INFO - 🗑️ Log cleared
+2025-10-22 14:16:16,052 - WARNING - ⚠️ Disconnected from server
+2025-10-22 14:16:16,056 - INFO - 🔌 Disconnected from server
+2025-10-22 14:16:16,758 - INFO - 🔄 Connecting to https://socket.pss.al/test...
+2025-10-22 14:16:17,051 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 14:16:17,052 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 14:16:24,346 - INFO - 🖨️ Print request received
+2025-10-22 14:16:24,346 - INFO -    Type: html
+2025-10-22 14:16:24,347 - INFO -    Printer: BANAK
+2025-10-22 14:16:24,352 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-22 14:16:24,357 - INFO - 📄 Converting HTML to PDF...
+2025-10-22 14:16:24,357 - INFO -    HTML length: 4480 characters
+2025-10-22 14:16:24,361 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-22 14:16:24,362 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-22 14:16:24,365 - WARNING - ⚠️ wkhtmltopdf conversion failed: Exception: pdfkit library not installed
+2025-10-22 14:16:24,368 - DEBUG - Traceback:
+Traceback (most recent call last):
+  File "printer_handler.py", line 1128, in _convert_html_to_pdf_wkhtmltopdf
+ModuleNotFoundError: No module named 'pdfkit'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "printer_handler.py", line 405, in _convert_html_to_pdf
+  File "printer_handler.py", line 1281, in _convert_html_to_pdf_wkhtmltopdf
+Exception: pdfkit library not installed
+
+2025-10-22 14:16:24,377 - INFO - 🔄 Falling back to ReportLab renderer...
+2025-10-22 14:16:24,388 - INFO - 📊 Using optimized table-based receipt renderer
+2025-10-22 14:16:24,393 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-22 14:16:24,394 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-22 14:16:24,396 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-22 14:16:24,398 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-22 14:16:24,400 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-22 14:16:24,402 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-22 14:16:24,407 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-22 14:16:24,412 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-22 14:16:24,421 - INFO - Using font scale: 0.95 (95%)
+2025-10-22 14:16:24,437 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmpiupul48y.pdf
+2025-10-22 14:16:24,438 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmpiupul48y.pdf (1910 bytes)
+2025-10-22 14:16:24,443 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-22 14:16:24,449 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-22 14:16:24,454 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 14:16:24,460 - INFO - ✅ Found SumatraPDF at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 14:16:24,466 - INFO - 🖨️ Using SumatraPDF to print PDF to BANAK...
+2025-10-22 14:16:24,989 - INFO - ✅ PDF printed successfully using SumatraPDF to BANAK
+2025-10-22 14:16:24,989 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-22 14:16:26,995 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmpiupul48y.pdf
+2025-10-22 14:16:26,995 - INFO - ✅ Print job completed successfully
+2025-10-22 14:16:52,631 - INFO - 🖨️ Print request received
+2025-10-22 14:16:52,632 - INFO -    Type: html
+2025-10-22 14:16:52,651 - INFO -    Printer: BANAK
+2025-10-22 14:16:52,659 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-22 14:16:52,664 - INFO - 📄 Converting HTML to PDF...
+2025-10-22 14:16:52,671 - INFO -    HTML length: 4532 characters
+2025-10-22 14:16:52,680 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-22 14:16:52,683 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-22 14:16:52,690 - WARNING - ⚠️ wkhtmltopdf conversion failed: Exception: pdfkit library not installed
+2025-10-22 14:16:52,696 - DEBUG - Traceback:
+Traceback (most recent call last):
+  File "printer_handler.py", line 1128, in _convert_html_to_pdf_wkhtmltopdf
+ModuleNotFoundError: No module named 'pdfkit'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "printer_handler.py", line 405, in _convert_html_to_pdf
+  File "printer_handler.py", line 1281, in _convert_html_to_pdf_wkhtmltopdf
+Exception: pdfkit library not installed
+
+2025-10-22 14:16:52,701 - INFO - 🔄 Falling back to ReportLab renderer...
+2025-10-22 14:16:52,709 - INFO - 📊 Using optimized table-based receipt renderer
+2025-10-22 14:16:52,717 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-22 14:16:52,718 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-22 14:16:52,723 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-22 14:16:52,728 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-22 14:16:52,732 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-22 14:16:52,738 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-22 14:16:52,745 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-22 14:16:52,751 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-22 14:16:52,760 - INFO - Using font scale: 0.95 (95%)
+2025-10-22 14:16:52,770 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmp1jg33rrv.pdf
+2025-10-22 14:16:52,773 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmp1jg33rrv.pdf (1925 bytes)
+2025-10-22 14:16:52,779 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-22 14:16:52,784 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-22 14:16:52,791 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 14:16:52,796 - INFO - ✅ Found SumatraPDF at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 14:16:52,801 - INFO - 🖨️ Using SumatraPDF to print PDF to BANAK...
+2025-10-22 14:16:53,123 - INFO - ✅ PDF printed successfully using SumatraPDF to BANAK
+2025-10-22 14:16:53,124 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-22 14:16:55,128 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmp1jg33rrv.pdf
+2025-10-22 14:16:55,130 - INFO - ✅ Print job completed successfully
+2025-10-22 14:17:10,528 - INFO - 🖨️ Print request received
+2025-10-22 14:17:10,529 - INFO -    Type: html
+2025-10-22 14:17:10,533 - INFO -    Printer: BANAK
+2025-10-22 14:17:10,542 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-22 14:17:10,545 - INFO - 📄 Converting HTML to PDF...
+2025-10-22 14:17:10,552 - INFO -    HTML length: 5181 characters
+2025-10-22 14:17:10,559 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-22 14:17:10,565 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-22 14:17:10,571 - WARNING - ⚠️ wkhtmltopdf conversion failed: Exception: pdfkit library not installed
+2025-10-22 14:17:10,578 - DEBUG - Traceback:
+Traceback (most recent call last):
+  File "printer_handler.py", line 1128, in _convert_html_to_pdf_wkhtmltopdf
+ModuleNotFoundError: No module named 'pdfkit'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "printer_handler.py", line 405, in _convert_html_to_pdf
+  File "printer_handler.py", line 1281, in _convert_html_to_pdf_wkhtmltopdf
+Exception: pdfkit library not installed
+
+2025-10-22 14:17:10,584 - INFO - 🔄 Falling back to ReportLab renderer...
+2025-10-22 14:17:10,589 - INFO - 📊 Using optimized table-based receipt renderer
+2025-10-22 14:17:10,593 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-22 14:17:10,595 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-22 14:17:10,601 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-22 14:17:10,606 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-22 14:17:10,611 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-22 14:17:10,617 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-22 14:17:10,625 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-22 14:17:10,630 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-22 14:17:10,636 - INFO - Using font scale: 0.95 (95%)
+2025-10-22 14:17:10,647 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmpaoriv4o3.pdf
+2025-10-22 14:17:10,657 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmpaoriv4o3.pdf (2343 bytes)
+2025-10-22 14:17:10,661 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-22 14:17:10,665 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-22 14:17:10,670 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 14:17:10,674 - INFO - ✅ Found SumatraPDF at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 14:17:10,680 - INFO - 🖨️ Using SumatraPDF to print PDF to BANAK...
+2025-10-22 14:17:11,007 - INFO - ✅ PDF printed successfully using SumatraPDF to BANAK
+2025-10-22 14:17:11,007 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-22 14:17:13,012 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmpaoriv4o3.pdf
+2025-10-22 14:17:13,013 - INFO - ✅ Print job completed successfully
+2025-10-22 14:17:23,223 - INFO - 📄 PDF converter selected: reportlab
+2025-10-22 14:17:23,975 - INFO - 💾 Configuration saved to: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\.env
+2025-10-22 14:17:26,094 - INFO - 📄 PDF converter selected: wkhtmltopdf
+2025-10-22 14:17:26,578 - INFO - 💾 Configuration saved to: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\.env
+2025-10-22 14:17:31,768 - INFO - 🖨️ Print request received
+2025-10-22 14:17:31,770 - INFO -    Type: html
+2025-10-22 14:17:31,776 - INFO -    Printer: BANAK
+2025-10-22 14:17:31,787 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-22 14:17:31,794 - INFO - 📄 Converting HTML to PDF...
+2025-10-22 14:17:31,802 - INFO -    HTML length: 4968 characters
+2025-10-22 14:17:31,812 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-22 14:17:31,817 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-22 14:17:31,827 - WARNING - ⚠️ wkhtmltopdf conversion failed: Exception: pdfkit library not installed
+2025-10-22 14:17:31,835 - DEBUG - Traceback:
+Traceback (most recent call last):
+  File "printer_handler.py", line 1128, in _convert_html_to_pdf_wkhtmltopdf
+ModuleNotFoundError: No module named 'pdfkit'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "printer_handler.py", line 405, in _convert_html_to_pdf
+  File "printer_handler.py", line 1281, in _convert_html_to_pdf_wkhtmltopdf
+Exception: pdfkit library not installed
+
+2025-10-22 14:17:31,846 - INFO - 🔄 Falling back to ReportLab renderer...
+2025-10-22 14:17:31,852 - INFO - 📊 Using optimized table-based receipt renderer
+2025-10-22 14:17:31,863 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-22 14:17:31,865 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-22 14:17:31,873 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-22 14:17:31,879 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-22 14:17:31,912 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-22 14:17:31,918 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-22 14:17:31,927 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-22 14:17:31,934 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-22 14:17:31,944 - INFO - Using font scale: 0.95 (95%)
+2025-10-22 14:17:31,956 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmps1lme7g7.pdf
+2025-10-22 14:17:31,966 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmps1lme7g7.pdf (2289 bytes)
+2025-10-22 14:17:31,970 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-22 14:17:31,977 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-22 14:17:31,983 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 14:17:31,993 - INFO - ✅ Found SumatraPDF at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 14:17:31,998 - INFO - 🖨️ Using SumatraPDF to print PDF to BANAK...
+2025-10-22 14:17:32,315 - INFO - ✅ PDF printed successfully using SumatraPDF to BANAK
+2025-10-22 14:17:32,316 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-22 14:17:34,322 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmps1lme7g7.pdf
+2025-10-22 14:17:34,322 - INFO - ✅ Print job completed successfully
+2025-10-22 14:17:43,109 - INFO - 🗑️ Log cleared
+2025-10-22 14:18:31,945 - INFO - Cleared 1 items from queue
+2025-10-22 14:18:31,945 - INFO - 🗑️ Queue cleared
+2025-10-22 14:19:39,373 - WARNING - ⚠️ Disconnected from server
+2025-10-22 14:19:40,852 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 14:19:40,853 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 14:20:44,748 - INFO - 📄 PDF converter selected: reportlab
+2025-10-22 14:20:45,340 - INFO - 💾 Configuration saved to: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\.env
+2025-10-22 14:20:53,910 - INFO - 🖨️ Print request received
+2025-10-22 14:20:53,911 - INFO -    Type: html
+2025-10-22 14:20:53,916 - INFO -    Printer: BANAK
+2025-10-22 14:20:53,924 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-22 14:20:53,927 - INFO - 📄 Converting HTML to PDF...
+2025-10-22 14:20:53,934 - INFO -    HTML length: 4480 characters
+2025-10-22 14:20:53,941 - INFO - Using PDF converter: reportlab
+2025-10-22 14:20:53,943 - INFO - Using optimized table-based receipt renderer
+2025-10-22 14:20:53,952 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-22 14:20:53,957 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-22 14:20:53,958 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-22 14:20:53,959 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-22 14:20:53,961 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-22 14:20:53,963 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-22 14:20:53,964 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-22 14:20:53,966 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-22 14:20:53,969 - INFO - Using font scale: 0.95 (95%)
+2025-10-22 14:20:53,975 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmpxzvsgjy2.pdf
+2025-10-22 14:20:53,984 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmpxzvsgjy2.pdf (1910 bytes)
+2025-10-22 14:20:53,997 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-22 14:20:54,008 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-22 14:20:54,023 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 14:20:54,025 - INFO - ✅ Found SumatraPDF at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 14:20:54,028 - INFO - 🖨️ Using SumatraPDF to print PDF to BANAK...
+2025-10-22 14:20:54,430 - INFO - ✅ PDF printed successfully using SumatraPDF to BANAK
+2025-10-22 14:20:54,431 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-22 14:20:56,447 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmpxzvsgjy2.pdf
+2025-10-22 14:20:56,448 - INFO - ✅ Print job completed successfully
+2025-10-22 14:21:09,224 - INFO - 🖨️ Print request received
+2025-10-22 14:21:09,225 - INFO -    Type: html
+2025-10-22 14:21:09,229 - INFO -    Printer: BANAK
+2025-10-22 14:21:09,239 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-22 14:21:09,245 - INFO - 📄 Converting HTML to PDF...
+2025-10-22 14:21:09,251 - INFO -    HTML length: 4480 characters
+2025-10-22 14:21:09,258 - INFO - Using PDF converter: reportlab
+2025-10-22 14:21:09,264 - INFO - Using optimized table-based receipt renderer
+2025-10-22 14:21:09,273 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-22 14:21:09,275 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-22 14:21:09,280 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-22 14:21:09,285 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-22 14:21:09,291 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-22 14:21:09,295 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-22 14:21:09,301 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-22 14:21:09,306 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-22 14:21:09,312 - INFO - Using font scale: 0.95 (95%)
+2025-10-22 14:21:09,321 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmpaof0wxpf.pdf
+2025-10-22 14:21:09,324 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmpaof0wxpf.pdf (1910 bytes)
+2025-10-22 14:21:09,328 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-22 14:21:09,335 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-22 14:21:09,342 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 14:21:09,348 - INFO - ✅ Found SumatraPDF at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 14:21:09,356 - INFO - 🖨️ Using SumatraPDF to print PDF to BANAK...
+2025-10-22 14:21:09,662 - INFO - ✅ PDF printed successfully using SumatraPDF to BANAK
+2025-10-22 14:21:09,663 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-22 14:21:11,681 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmpaof0wxpf.pdf
+2025-10-22 14:21:11,682 - INFO - ✅ Print job completed successfully
+2025-10-22 14:21:27,152 - INFO - 🖨️ Print request received
+2025-10-22 14:21:27,152 - INFO -    Type: html
+2025-10-22 14:21:27,160 - INFO -    Printer: BANAK
+2025-10-22 14:21:27,169 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-22 14:21:27,173 - INFO - 📄 Converting HTML to PDF...
+2025-10-22 14:21:27,180 - INFO -    HTML length: 4539 characters
+2025-10-22 14:21:27,194 - INFO - Using PDF converter: reportlab
+2025-10-22 14:21:27,196 - INFO - Using optimized table-based receipt renderer
+2025-10-22 14:21:27,204 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-22 14:21:27,207 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-22 14:21:27,212 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-22 14:21:27,217 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-22 14:21:27,222 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-22 14:21:27,228 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-22 14:21:27,233 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-22 14:21:27,238 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-22 14:21:27,245 - INFO - Using font scale: 0.95 (95%)
+2025-10-22 14:21:27,252 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmpd9_ur9uh.pdf
+2025-10-22 14:21:27,253 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmpd9_ur9uh.pdf (1928 bytes)
+2025-10-22 14:21:27,258 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-22 14:21:27,264 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-22 14:21:27,270 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 14:21:27,275 - INFO - ✅ Found SumatraPDF at: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\dist\SumatraPDF.exe
+2025-10-22 14:21:27,281 - INFO - 🖨️ Using SumatraPDF to print PDF to BANAK...
+2025-10-22 14:21:27,595 - INFO - ✅ PDF printed successfully using SumatraPDF to BANAK
+2025-10-22 14:21:27,596 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-22 14:21:29,602 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmpd9_ur9uh.pdf
+2025-10-22 14:21:29,602 - INFO - ✅ Print job completed successfully
+2025-10-22 14:23:34,666 - WARNING - ⚠️ Disconnected from server
+2025-10-22 14:23:36,284 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 14:23:36,285 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-22 14:25:41,290 - WARNING - ⚠️ Disconnected from server
+2025-10-22 14:25:42,258 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-22 14:25:42,259 - INFO - ✅ Successfully connected to Backend-Socket server

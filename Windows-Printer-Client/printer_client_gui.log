@@ -1762,3 +1762,786 @@
 2025-10-21 15:55:06,509 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmp3gjkzv4d.pdf
 2025-10-21 15:55:06,510 - INFO - ✅ Print job completed successfully
 2025-10-21 15:56:28,365 - WARNING - ⚠️ Disconnected from server
+2025-10-21 16:09:39,799 - INFO - 🚀 Windows Printer Client GUI started
+2025-10-21 16:09:39,800 - INFO - 📍 Default Printer: BANAK
+2025-10-21 16:09:40,317 - INFO - 🔄 Auto-connecting to server on startup...
+2025-10-21 16:09:40,335 - INFO - 🔄 Connecting to https://socket.pss.al/...
+2025-10-21 16:09:40,575 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 16:09:40,576 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 16:09:44,652 - INFO - 💾 Configuration saved to: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\.env
+2025-10-21 16:09:52,313 - INFO - 🖨️ Print request received
+2025-10-21 16:09:52,314 - INFO -    Type: html
+2025-10-21 16:09:52,320 - INFO -    Printer: Banak
+2025-10-21 16:09:52,325 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-21 16:09:52,332 - INFO - 📄 Converting HTML to PDF...
+2025-10-21 16:09:52,333 - INFO -    HTML length: 4490 characters
+2025-10-21 16:09:52,358 - INFO - Using PDF converter: reportlab
+2025-10-21 16:09:52,521 - INFO - Using optimized table-based receipt renderer
+2025-10-21 16:09:52,616 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-21 16:09:52,616 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-21 16:09:52,617 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-21 16:09:52,618 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-21 16:09:52,621 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-21 16:09:52,623 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-21 16:09:52,625 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-21 16:09:52,627 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-21 16:09:52,630 - INFO - Using font scale: 1.0 (100%)
+2025-10-21 16:09:52,638 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmprb8u2drm.pdf
+2025-10-21 16:09:52,646 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmprb8u2drm.pdf (1883 bytes)
+2025-10-21 16:09:52,660 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-21 16:09:52,670 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-21 16:09:52,671 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\SumatraPDF.exe
+2025-10-21 16:09:52,694 - DEBUG -    ❌ Not found
+2025-10-21 16:09:52,695 - DEBUG -    Checking: C:\Program Files\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:09:52,701 - DEBUG -    ❌ Not found
+2025-10-21 16:09:52,701 - DEBUG -    Checking: C:\Program Files (x86)\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:09:52,702 - DEBUG -    ❌ Not found
+2025-10-21 16:09:52,702 - INFO - SumatraPDF not found, trying Windows ShellExecute...
+2025-10-21 16:09:52,845 - INFO - ✅ PDF sent to printer using ShellExecute: BANAK
+2025-10-21 16:09:53,847 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-21 16:09:55,848 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmprb8u2drm.pdf
+2025-10-21 16:09:55,850 - INFO - ✅ Print job completed successfully
+2025-10-21 16:10:33,267 - INFO - 🖨️ Print request received
+2025-10-21 16:10:33,268 - INFO -    Type: html
+2025-10-21 16:10:33,272 - INFO -    Printer: Banak
+2025-10-21 16:10:33,283 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-21 16:10:33,287 - INFO - 📄 Converting HTML to PDF...
+2025-10-21 16:10:33,292 - INFO -    HTML length: 4480 characters
+2025-10-21 16:10:33,299 - INFO - Using PDF converter: reportlab
+2025-10-21 16:10:33,305 - INFO - Using optimized table-based receipt renderer
+2025-10-21 16:10:33,312 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-21 16:10:33,314 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-21 16:10:33,319 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-21 16:10:33,324 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-21 16:10:33,329 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-21 16:10:33,332 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-21 16:10:33,340 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-21 16:10:33,344 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-21 16:10:33,349 - INFO - Using font scale: 1.0 (100%)
+2025-10-21 16:10:33,358 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmpb3kzfyom.pdf
+2025-10-21 16:10:33,362 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmpb3kzfyom.pdf (1874 bytes)
+2025-10-21 16:10:33,365 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-21 16:10:33,370 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-21 16:10:33,375 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\SumatraPDF.exe
+2025-10-21 16:10:33,380 - DEBUG -    ❌ Not found
+2025-10-21 16:10:33,389 - DEBUG -    Checking: C:\Program Files\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:10:33,392 - DEBUG -    ❌ Not found
+2025-10-21 16:10:33,394 - DEBUG -    Checking: C:\Program Files (x86)\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:10:33,397 - DEBUG -    ❌ Not found
+2025-10-21 16:10:33,402 - INFO - SumatraPDF not found, trying Windows ShellExecute...
+2025-10-21 16:10:33,463 - INFO - ✅ PDF sent to printer using ShellExecute: BANAK
+2025-10-21 16:10:34,464 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-21 16:10:36,476 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmpb3kzfyom.pdf
+2025-10-21 16:10:36,477 - INFO - ✅ Print job completed successfully
+2025-10-21 16:12:07,580 - INFO - 🖨️ Print request received
+2025-10-21 16:12:07,581 - INFO -    Type: html
+2025-10-21 16:12:07,583 - INFO -    Printer: Banak
+2025-10-21 16:12:07,591 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-21 16:12:07,591 - INFO - 📄 Converting HTML to PDF...
+2025-10-21 16:12:07,595 - INFO -    HTML length: 4968 characters
+2025-10-21 16:12:07,601 - INFO - Using PDF converter: reportlab
+2025-10-21 16:12:07,606 - INFO - Using optimized table-based receipt renderer
+2025-10-21 16:12:07,612 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-21 16:12:07,625 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-21 16:12:07,628 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-21 16:12:07,632 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-21 16:12:07,638 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-21 16:12:07,645 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-21 16:12:07,652 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-21 16:12:07,663 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-21 16:12:07,670 - INFO - Using font scale: 1.0 (100%)
+2025-10-21 16:12:07,681 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmplixrokcy.pdf
+2025-10-21 16:12:07,693 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmplixrokcy.pdf (2255 bytes)
+2025-10-21 16:12:07,706 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-21 16:12:07,709 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-21 16:12:07,723 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\SumatraPDF.exe
+2025-10-21 16:12:07,725 - DEBUG -    ❌ Not found
+2025-10-21 16:12:07,729 - DEBUG -    Checking: C:\Program Files\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:12:07,733 - DEBUG -    ❌ Not found
+2025-10-21 16:12:07,737 - DEBUG -    Checking: C:\Program Files (x86)\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:12:07,740 - DEBUG -    ❌ Not found
+2025-10-21 16:12:07,742 - INFO - SumatraPDF not found, trying Windows ShellExecute...
+2025-10-21 16:12:07,808 - INFO - ✅ PDF sent to printer using ShellExecute: BANAK
+2025-10-21 16:12:08,809 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-21 16:12:10,811 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmplixrokcy.pdf
+2025-10-21 16:12:10,812 - INFO - ✅ Print job completed successfully
+2025-10-21 16:14:15,884 - WARNING - ⚠️ Disconnected from server
+2025-10-21 16:14:16,864 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 16:14:16,865 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 16:16:21,868 - WARNING - ⚠️ Disconnected from server
+2025-10-21 16:16:23,480 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 16:16:23,481 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 16:18:12,937 - INFO - 🗑️ Log cleared
+2025-10-21 16:18:28,484 - WARNING - ⚠️ Disconnected from server
+2025-10-21 16:18:29,843 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 16:18:29,843 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 16:18:46,341 - WARNING - ⚠️ Disconnected from server
+2025-10-21 16:20:26,623 - INFO - 🚀 Windows Printer Client GUI started
+2025-10-21 16:20:26,624 - INFO - 📍 Default Printer: BANAK
+2025-10-21 16:20:27,130 - INFO - 🔄 Auto-connecting to server on startup...
+2025-10-21 16:20:27,141 - INFO - 🔄 Connecting to https://socket.pss.al/...
+2025-10-21 16:20:27,480 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 16:20:27,480 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 16:20:30,425 - INFO - 💾 Configuration saved to: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\.env
+2025-10-21 16:20:35,687 - INFO - 🖨️ Print request received
+2025-10-21 16:20:35,687 - INFO -    Type: html
+2025-10-21 16:20:35,694 - INFO -    Printer: Banak
+2025-10-21 16:20:35,703 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-21 16:20:35,707 - INFO - 📄 Converting HTML to PDF...
+2025-10-21 16:20:35,707 - INFO -    HTML length: 4480 characters
+2025-10-21 16:20:35,730 - INFO - Using PDF converter: reportlab
+2025-10-21 16:20:35,874 - INFO - Using optimized table-based receipt renderer
+2025-10-21 16:20:36,065 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-21 16:20:36,065 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-21 16:20:36,065 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-21 16:20:36,067 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-21 16:20:36,068 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-21 16:20:36,070 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-21 16:20:36,072 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-21 16:20:36,074 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-21 16:20:36,077 - INFO - Using font scale: 1.0 (100%)
+2025-10-21 16:20:36,083 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmprcsjiv_f.pdf
+2025-10-21 16:20:36,092 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmprcsjiv_f.pdf (1890 bytes)
+2025-10-21 16:20:36,092 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-21 16:20:36,094 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-21 16:20:36,106 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\SumatraPDF.exe
+2025-10-21 16:20:36,128 - DEBUG -    ❌ Not found
+2025-10-21 16:20:36,131 - DEBUG -    Checking: C:\Program Files\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:20:36,137 - DEBUG -    ❌ Not found
+2025-10-21 16:20:36,138 - DEBUG -    Checking: C:\Program Files (x86)\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:20:36,138 - DEBUG -    ❌ Not found
+2025-10-21 16:20:36,138 - INFO - SumatraPDF not found, trying Windows ShellExecute...
+2025-10-21 16:20:36,317 - INFO - ✅ PDF sent to printer using ShellExecute: BANAK
+2025-10-21 16:20:37,318 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-21 16:20:39,319 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmprcsjiv_f.pdf
+2025-10-21 16:20:39,320 - INFO - ✅ Print job completed successfully
+2025-10-21 16:21:54,813 - INFO - 🖨️ Print request received
+2025-10-21 16:21:54,814 - INFO -    Type: html
+2025-10-21 16:21:54,816 - INFO -    Printer: Banak
+2025-10-21 16:21:54,824 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-21 16:21:54,825 - INFO - 📄 Converting HTML to PDF...
+2025-10-21 16:21:54,827 - INFO -    HTML length: 4480 characters
+2025-10-21 16:21:54,831 - INFO - Using PDF converter: reportlab
+2025-10-21 16:21:54,834 - INFO - Using optimized table-based receipt renderer
+2025-10-21 16:21:54,838 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-21 16:21:54,838 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-21 16:21:54,839 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-21 16:21:54,848 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-21 16:21:54,848 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-21 16:21:54,850 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-21 16:21:54,851 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-21 16:21:54,851 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-21 16:21:54,855 - INFO - Using font scale: 1.0 (100%)
+2025-10-21 16:21:54,869 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmpgkvlmvqt.pdf
+2025-10-21 16:21:54,879 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmpgkvlmvqt.pdf (1890 bytes)
+2025-10-21 16:21:54,887 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-21 16:21:54,887 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-21 16:21:54,889 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\SumatraPDF.exe
+2025-10-21 16:21:54,892 - DEBUG -    ❌ Not found
+2025-10-21 16:21:54,901 - DEBUG -    Checking: C:\Program Files\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:21:54,903 - DEBUG -    ❌ Not found
+2025-10-21 16:21:54,904 - DEBUG -    Checking: C:\Program Files (x86)\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:21:54,904 - DEBUG -    ❌ Not found
+2025-10-21 16:21:54,905 - INFO - SumatraPDF not found, trying Windows ShellExecute...
+2025-10-21 16:21:54,958 - INFO - ✅ PDF sent to printer using ShellExecute: BANAK
+2025-10-21 16:21:55,344 - INFO - 🖨️ Print request received
+2025-10-21 16:21:55,345 - INFO -    Type: html
+2025-10-21 16:21:55,347 - INFO -    Printer: Banak
+2025-10-21 16:21:55,384 - INFO - Printer 'BANAK' has 1 jobs in Windows spooler
+2025-10-21 16:21:55,386 - INFO - Printer 'BANAK' has 1 jobs in Windows spooler
+2025-10-21 16:21:55,388 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-21 16:21:55,391 - INFO - 📄 Converting HTML to PDF...
+2025-10-21 16:21:55,395 - INFO -    HTML length: 4958 characters
+2025-10-21 16:21:55,406 - INFO - Using PDF converter: reportlab
+2025-10-21 16:21:55,411 - INFO - Using optimized table-based receipt renderer
+2025-10-21 16:21:55,418 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-21 16:21:55,419 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-21 16:21:55,422 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-21 16:21:55,425 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-21 16:21:55,428 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-21 16:21:55,432 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-21 16:21:55,436 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-21 16:21:55,439 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-21 16:21:55,446 - INFO - Using font scale: 1.0 (100%)
+2025-10-21 16:21:55,456 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmptyzsu0oh.pdf
+2025-10-21 16:21:55,466 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmptyzsu0oh.pdf (2268 bytes)
+2025-10-21 16:21:55,468 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-21 16:21:55,471 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-21 16:21:55,474 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\SumatraPDF.exe
+2025-10-21 16:21:55,478 - DEBUG -    ❌ Not found
+2025-10-21 16:21:55,480 - DEBUG -    Checking: C:\Program Files\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:21:55,483 - DEBUG -    ❌ Not found
+2025-10-21 16:21:55,485 - DEBUG -    Checking: C:\Program Files (x86)\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:21:55,487 - DEBUG -    ❌ Not found
+2025-10-21 16:21:55,490 - INFO - SumatraPDF not found, trying Windows ShellExecute...
+2025-10-21 16:21:55,539 - INFO - ✅ PDF sent to printer using ShellExecute: BANAK
+2025-10-21 16:21:55,960 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-21 16:21:56,540 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-21 16:21:57,962 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmpgkvlmvqt.pdf
+2025-10-21 16:21:57,962 - INFO - ✅ Print job completed successfully
+2025-10-21 16:21:58,541 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmptyzsu0oh.pdf
+2025-10-21 16:21:58,542 - INFO - ✅ Print job completed successfully
+2025-10-21 16:24:03,585 - WARNING - ⚠️ Disconnected from server
+2025-10-21 16:24:05,096 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 16:24:05,097 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 16:26:10,106 - WARNING - ⚠️ Disconnected from server
+2025-10-21 16:26:10,997 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 16:26:10,997 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 16:28:16,004 - WARNING - ⚠️ Disconnected from server
+2025-10-21 16:28:17,041 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 16:28:17,042 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 16:29:17,757 - INFO - 🖨️ Print request received
+2025-10-21 16:29:17,757 - INFO -    Type: html
+2025-10-21 16:29:17,761 - INFO -    Printer: Banak
+2025-10-21 16:29:17,768 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-21 16:29:17,769 - INFO - 📄 Converting HTML to PDF...
+2025-10-21 16:29:17,774 - INFO -    HTML length: 4480 characters
+2025-10-21 16:29:17,777 - INFO - Using PDF converter: reportlab
+2025-10-21 16:29:17,779 - INFO - Using optimized table-based receipt renderer
+2025-10-21 16:29:17,783 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-21 16:29:17,783 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-21 16:29:17,789 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-21 16:29:17,790 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-21 16:29:17,791 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-21 16:29:17,793 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-21 16:29:17,799 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-21 16:29:17,806 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-21 16:29:17,810 - INFO - Using font scale: 1.0 (100%)
+2025-10-21 16:29:17,814 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmp3hcug1ru.pdf
+2025-10-21 16:29:17,819 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmp3hcug1ru.pdf (1891 bytes)
+2025-10-21 16:29:17,828 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-21 16:29:17,835 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-21 16:29:17,844 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\SumatraPDF.exe
+2025-10-21 16:29:17,852 - DEBUG -    ❌ Not found
+2025-10-21 16:29:17,853 - DEBUG -    Checking: C:\Program Files\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:29:17,855 - DEBUG -    ❌ Not found
+2025-10-21 16:29:17,858 - DEBUG -    Checking: C:\Program Files (x86)\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:29:17,861 - DEBUG -    ❌ Not found
+2025-10-21 16:29:17,862 - INFO - SumatraPDF not found, trying Windows ShellExecute...
+2025-10-21 16:29:17,921 - INFO - ✅ PDF sent to printer using ShellExecute: BANAK
+2025-10-21 16:29:18,923 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-21 16:29:20,925 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmp3hcug1ru.pdf
+2025-10-21 16:29:20,926 - INFO - ✅ Print job completed successfully
+2025-10-21 16:31:10,586 - WARNING - ⚠️ Disconnected from server
+2025-10-21 16:31:13,560 - INFO - 🚀 Windows Printer Client GUI started
+2025-10-21 16:31:13,560 - INFO - 📍 Default Printer: BANAK
+2025-10-21 16:31:14,072 - INFO - 🔄 Auto-connecting to server on startup...
+2025-10-21 16:31:14,090 - INFO - 🔄 Connecting to https://socket.pss.al/...
+2025-10-21 16:31:14,321 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 16:31:14,321 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 16:31:19,125 - INFO - 💾 Configuration saved to: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\.env
+2025-10-21 16:31:28,416 - INFO - 🖨️ Print request received
+2025-10-21 16:31:28,417 - INFO -    Type: html
+2025-10-21 16:31:28,423 - INFO -    Printer: Banak
+2025-10-21 16:31:28,431 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-21 16:31:28,431 - INFO - 📄 Converting HTML to PDF...
+2025-10-21 16:31:28,433 - INFO -    HTML length: 4480 characters
+2025-10-21 16:31:28,461 - INFO - Using PDF converter: reportlab
+2025-10-21 16:31:28,589 - INFO - Using optimized table-based receipt renderer
+2025-10-21 16:31:28,615 - INFO - 🖨️ Print request received
+2025-10-21 16:31:28,616 - INFO -    Type: html
+2025-10-21 16:31:28,617 - INFO -    Printer: Banak
+2025-10-21 16:31:28,629 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-21 16:31:28,630 - INFO - 📄 Converting HTML to PDF...
+2025-10-21 16:31:28,638 - INFO -    HTML length: 4958 characters
+2025-10-21 16:31:28,641 - INFO - Using PDF converter: reportlab
+2025-10-21 16:31:28,644 - INFO - Using optimized table-based receipt renderer
+2025-10-21 16:31:28,696 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-21 16:31:28,700 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-21 16:31:28,701 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-21 16:31:28,702 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-21 16:31:28,703 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-21 16:31:28,705 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-21 16:31:28,706 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-21 16:31:28,708 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-21 16:31:28,711 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-21 16:31:28,714 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-21 16:31:28,716 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-21 16:31:28,717 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-21 16:31:28,733 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-21 16:31:28,733 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-21 16:31:28,744 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-21 16:31:28,745 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-21 16:31:28,749 - INFO - Using font scale: 1.0 (100%)
+2025-10-21 16:31:28,751 - INFO - Using font scale: 1.0 (100%)
+2025-10-21 16:31:28,765 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmpooppchoi.pdf
+2025-10-21 16:31:28,765 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmpe08wq97r.pdf
+2025-10-21 16:31:28,767 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmpooppchoi.pdf (2266 bytes)
+2025-10-21 16:31:28,772 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmpe08wq97r.pdf (1913 bytes)
+2025-10-21 16:31:28,777 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-21 16:31:28,782 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-21 16:31:28,786 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-21 16:31:28,789 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-21 16:31:28,794 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\SumatraPDF.exe
+2025-10-21 16:31:28,819 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\SumatraPDF.exe
+2025-10-21 16:31:28,824 - DEBUG -    ❌ Not found
+2025-10-21 16:31:28,829 - DEBUG -    ❌ Not found
+2025-10-21 16:31:28,840 - DEBUG -    Checking: C:\Program Files\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:31:28,854 - DEBUG -    Checking: C:\Program Files\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:31:28,857 - DEBUG -    ❌ Not found
+2025-10-21 16:31:28,860 - DEBUG -    ❌ Not found
+2025-10-21 16:31:28,862 - DEBUG -    Checking: C:\Program Files (x86)\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:31:28,865 - DEBUG -    Checking: C:\Program Files (x86)\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:31:28,868 - DEBUG -    ❌ Not found
+2025-10-21 16:31:28,875 - DEBUG -    ❌ Not found
+2025-10-21 16:31:28,878 - INFO - SumatraPDF not found, trying Windows ShellExecute...
+2025-10-21 16:31:28,880 - INFO - SumatraPDF not found, trying Windows ShellExecute...
+2025-10-21 16:31:29,006 - INFO - ✅ PDF sent to printer using ShellExecute: BANAK
+2025-10-21 16:31:29,006 - INFO - ✅ PDF sent to printer using ShellExecute: BANAK
+2025-10-21 16:31:30,007 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-21 16:31:30,012 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-21 16:31:32,010 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmpooppchoi.pdf
+2025-10-21 16:31:32,011 - INFO - ✅ Print job completed successfully
+2025-10-21 16:31:32,024 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmpe08wq97r.pdf
+2025-10-21 16:31:32,031 - INFO - ✅ Print job completed successfully
+2025-10-21 16:33:37,072 - WARNING - ⚠️ Disconnected from server
+2025-10-21 16:33:38,475 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 16:33:38,475 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 16:35:43,476 - WARNING - ⚠️ Disconnected from server
+2025-10-21 16:35:45,021 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 16:35:45,022 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 16:37:50,026 - WARNING - ⚠️ Disconnected from server
+2025-10-21 16:37:51,433 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 16:37:51,434 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 16:39:56,443 - WARNING - ⚠️ Disconnected from server
+2025-10-21 16:39:57,271 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 16:39:57,272 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 16:42:02,273 - WARNING - ⚠️ Disconnected from server
+2025-10-21 16:42:03,801 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 16:42:03,801 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 16:44:08,805 - WARNING - ⚠️ Disconnected from server
+2025-10-21 16:44:10,115 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 16:44:10,115 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 16:44:47,542 - INFO - 📄 PDF converter selected: reportlab
+2025-10-21 16:46:15,124 - WARNING - ⚠️ Disconnected from server
+2025-10-21 16:46:16,648 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 16:46:16,650 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 16:46:40,174 - INFO - 🖨️ Print request received
+2025-10-21 16:46:40,174 - INFO -    Type: html
+2025-10-21 16:46:40,178 - INFO -    Printer: Banak
+2025-10-21 16:46:40,192 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-21 16:46:40,194 - INFO - 📄 Converting HTML to PDF...
+2025-10-21 16:46:40,204 - INFO -    HTML length: 4480 characters
+2025-10-21 16:46:40,215 - INFO - Using PDF converter: reportlab
+2025-10-21 16:46:40,227 - INFO - Using optimized table-based receipt renderer
+2025-10-21 16:46:40,236 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-21 16:46:40,240 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-21 16:46:40,248 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-21 16:46:40,256 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-21 16:46:40,265 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-21 16:46:40,273 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-21 16:46:40,280 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-21 16:46:40,287 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-21 16:46:40,297 - INFO - Using font scale: 1.0 (100%)
+2025-10-21 16:46:40,307 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmpgln0n6zv.pdf
+2025-10-21 16:46:40,308 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmpgln0n6zv.pdf (1913 bytes)
+2025-10-21 16:46:40,313 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-21 16:46:40,319 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-21 16:46:40,324 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\SumatraPDF.exe
+2025-10-21 16:46:40,331 - DEBUG -    ❌ Not found
+2025-10-21 16:46:40,337 - DEBUG -    Checking: C:\Program Files\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:46:40,341 - DEBUG -    ❌ Not found
+2025-10-21 16:46:40,343 - DEBUG -    Checking: C:\Program Files (x86)\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:46:40,347 - DEBUG -    ❌ Not found
+2025-10-21 16:46:40,351 - INFO - SumatraPDF not found, trying Windows ShellExecute...
+2025-10-21 16:46:40,418 - INFO - ✅ PDF sent to printer using ShellExecute: BANAK
+2025-10-21 16:46:41,420 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-21 16:46:43,421 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmpgln0n6zv.pdf
+2025-10-21 16:46:43,422 - INFO - ✅ Print job completed successfully
+2025-10-21 16:46:48,018 - INFO - 🖨️ Print request received
+2025-10-21 16:46:48,018 - INFO -    Type: html
+2025-10-21 16:46:48,024 - INFO -    Printer: Banak
+2025-10-21 16:46:48,034 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-21 16:46:48,037 - INFO - 📄 Converting HTML to PDF...
+2025-10-21 16:46:48,046 - INFO -    HTML length: 4480 characters
+2025-10-21 16:46:48,055 - INFO - Using PDF converter: reportlab
+2025-10-21 16:46:48,060 - INFO - Using optimized table-based receipt renderer
+2025-10-21 16:46:48,069 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-21 16:46:48,071 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-21 16:46:48,075 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-21 16:46:48,082 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-21 16:46:48,089 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-21 16:46:48,096 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-21 16:46:48,102 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-21 16:46:48,110 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-21 16:46:48,117 - INFO - Using font scale: 1.0 (100%)
+2025-10-21 16:46:48,123 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmp4xbnjtoj.pdf
+2025-10-21 16:46:48,128 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmp4xbnjtoj.pdf (1914 bytes)
+2025-10-21 16:46:48,132 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-21 16:46:48,137 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-21 16:46:48,141 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\SumatraPDF.exe
+2025-10-21 16:46:48,146 - DEBUG -    ❌ Not found
+2025-10-21 16:46:48,152 - DEBUG -    Checking: C:\Program Files\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:46:48,155 - DEBUG -    ❌ Not found
+2025-10-21 16:46:48,159 - DEBUG -    Checking: C:\Program Files (x86)\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:46:48,161 - DEBUG -    ❌ Not found
+2025-10-21 16:46:48,166 - INFO - SumatraPDF not found, trying Windows ShellExecute...
+2025-10-21 16:46:48,226 - INFO - ✅ PDF sent to printer using ShellExecute: BANAK
+2025-10-21 16:46:48,309 - INFO - 🖨️ Print request received
+2025-10-21 16:46:48,310 - INFO -    Type: html
+2025-10-21 16:46:48,313 - INFO -    Printer: Banak
+2025-10-21 16:46:48,321 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-21 16:46:48,322 - INFO - 📄 Converting HTML to PDF...
+2025-10-21 16:46:48,327 - INFO -    HTML length: 4958 characters
+2025-10-21 16:46:48,335 - INFO - Using PDF converter: reportlab
+2025-10-21 16:46:48,339 - INFO - Using optimized table-based receipt renderer
+2025-10-21 16:46:48,362 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-21 16:46:48,363 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-21 16:46:48,369 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-21 16:46:48,373 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-21 16:46:48,378 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-21 16:46:48,383 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-21 16:46:48,389 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-21 16:46:48,394 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-21 16:46:48,402 - INFO - Using font scale: 1.0 (100%)
+2025-10-21 16:46:48,410 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmpt_cfzesj.pdf
+2025-10-21 16:46:48,422 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmpt_cfzesj.pdf (2266 bytes)
+2025-10-21 16:46:48,425 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-21 16:46:48,430 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-21 16:46:48,435 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\SumatraPDF.exe
+2025-10-21 16:46:48,439 - DEBUG -    ❌ Not found
+2025-10-21 16:46:48,443 - DEBUG -    Checking: C:\Program Files\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:46:48,446 - DEBUG -    ❌ Not found
+2025-10-21 16:46:48,448 - DEBUG -    Checking: C:\Program Files (x86)\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:46:48,452 - DEBUG -    ❌ Not found
+2025-10-21 16:46:48,455 - INFO - SumatraPDF not found, trying Windows ShellExecute...
+2025-10-21 16:46:48,520 - INFO - ✅ PDF sent to printer using ShellExecute: BANAK
+2025-10-21 16:46:49,228 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-21 16:46:49,522 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-21 16:46:51,231 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmp4xbnjtoj.pdf
+2025-10-21 16:46:51,232 - INFO - ✅ Print job completed successfully
+2025-10-21 16:46:51,523 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmpt_cfzesj.pdf
+2025-10-21 16:46:51,524 - INFO - ✅ Print job completed successfully
+2025-10-21 16:47:03,180 - INFO - 🖨️ Print request received
+2025-10-21 16:47:03,195 - INFO -    Type: html
+2025-10-21 16:47:03,199 - INFO -    Printer: Banak
+2025-10-21 16:47:03,231 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-21 16:47:03,247 - INFO - 📄 Converting HTML to PDF...
+2025-10-21 16:47:03,251 - INFO -    HTML length: 4968 characters
+2025-10-21 16:47:03,259 - INFO - Using PDF converter: reportlab
+2025-10-21 16:47:03,267 - INFO - Using optimized table-based receipt renderer
+2025-10-21 16:47:03,273 - INFO - Parsed 32 CSS rules (classes + tags)
+2025-10-21 16:47:03,274 - INFO -   CSS 'title1': {'font-size': '14px', 'text-align': 'center', 'font-weight': 'bold'}
+2025-10-21 16:47:03,279 - INFO -   CSS 'tds-footer': {'font-size': '11px', 'font-weight': 'bold', 'text-align': 'center', 'width': '100%', 'margin': '0'}
+2025-10-21 16:47:03,283 - INFO -   CSS 'columnsSkontrino': {'font-weight': '500', 'font-size': '11px', 'color': '#000'}
+2025-10-21 16:47:03,288 - INFO -   CSS 'columnsPershkrim': {'font-weight': '600', 'font-size': '11px', 'color': '#000'}
+2025-10-21 16:47:03,292 - INFO -   CSS 'columnsTotal': {'padding-top': '20px', 'font-size': '14px', 'color': '#000'}
+2025-10-21 16:47:03,297 - INFO -   CSS 'tfoot': {'text-align': 'center'}
+2025-10-21 16:47:03,301 - INFO -   CSS 'center-text': {'text-align': 'center'}
+2025-10-21 16:47:03,306 - INFO - Using font scale: 1.0 (100%)
+2025-10-21 16:47:03,317 - INFO - Receipt PDF created successfully: C:\Users\user\AppData\Local\Temp\tmp8rcb5ltd.pdf
+2025-10-21 16:47:03,318 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmp8rcb5ltd.pdf (2278 bytes)
+2025-10-21 16:47:03,321 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-21 16:47:03,326 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-21 16:47:03,331 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\SumatraPDF.exe
+2025-10-21 16:47:03,336 - DEBUG -    ❌ Not found
+2025-10-21 16:47:03,340 - DEBUG -    Checking: C:\Program Files\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:47:03,343 - DEBUG -    ❌ Not found
+2025-10-21 16:47:03,347 - DEBUG -    Checking: C:\Program Files (x86)\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:47:03,351 - DEBUG -    ❌ Not found
+2025-10-21 16:47:03,353 - INFO - SumatraPDF not found, trying Windows ShellExecute...
+2025-10-21 16:47:03,414 - INFO - ✅ PDF sent to printer using ShellExecute: BANAK
+2025-10-21 16:47:04,415 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-21 16:47:06,417 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmp8rcb5ltd.pdf
+2025-10-21 16:47:06,417 - INFO - ✅ Print job completed successfully
+2025-10-21 16:47:06,917 - INFO - 📄 PDF converter selected: wkhtmltopdf
+2025-10-21 16:47:07,768 - INFO - 💾 Configuration saved to: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\.env
+2025-10-21 16:47:12,732 - INFO - 🖨️ Print request received
+2025-10-21 16:47:12,733 - INFO -    Type: html
+2025-10-21 16:47:12,746 - INFO -    Printer: Banak
+2025-10-21 16:47:12,760 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-21 16:47:12,762 - INFO - 📄 Converting HTML to PDF...
+2025-10-21 16:47:12,769 - INFO -    HTML length: 4968 characters
+2025-10-21 16:47:12,778 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-21 16:47:12,782 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-21 16:47:12,799 - INFO - 🐍 Running as Python script from: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client
+2025-10-21 16:47:12,820 - INFO - 🔍 Searching for wkhtmltopdf.exe in 4 locations...
+2025-10-21 16:47:12,881 - INFO -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\wkhtmltopdf.exe
+2025-10-21 16:47:12,913 - INFO -    ❌ Not found
+2025-10-21 16:47:12,943 - INFO -    Checking: C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe
+2025-10-21 16:47:12,976 - INFO - ✅ Found wkhtmltopdf at: C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe
+2025-10-21 16:47:13,733 - INFO - HTML converted to PDF with wkhtmltopdf: C:\Users\user\AppData\Local\Temp\tmp38l9tt7l.pdf
+2025-10-21 16:47:13,734 - INFO - ✅ wkhtmltopdf conversion successful: C:\Users\user\AppData\Local\Temp\tmp38l9tt7l.pdf
+2025-10-21 16:47:13,750 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmp38l9tt7l.pdf (23712 bytes)
+2025-10-21 16:47:13,796 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-21 16:47:13,813 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-21 16:47:13,840 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\SumatraPDF.exe
+2025-10-21 16:47:13,869 - DEBUG -    ❌ Not found
+2025-10-21 16:47:13,901 - DEBUG -    Checking: C:\Program Files\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:47:13,911 - DEBUG -    ❌ Not found
+2025-10-21 16:47:13,921 - DEBUG -    Checking: C:\Program Files (x86)\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:47:13,940 - DEBUG -    ❌ Not found
+2025-10-21 16:47:13,950 - INFO - SumatraPDF not found, trying Windows ShellExecute...
+2025-10-21 16:47:14,007 - INFO - ✅ PDF sent to printer using ShellExecute: BANAK
+2025-10-21 16:47:15,008 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-21 16:47:17,011 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmp38l9tt7l.pdf
+2025-10-21 16:47:17,011 - INFO - ✅ Print job completed successfully
+2025-10-21 16:47:31,805 - INFO - 🖨️ Print request received
+2025-10-21 16:47:31,806 - INFO -    Type: html
+2025-10-21 16:47:31,819 - INFO -    Printer: Banak
+2025-10-21 16:47:31,850 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-21 16:47:31,878 - INFO - 📄 Converting HTML to PDF...
+2025-10-21 16:47:31,906 - INFO -    HTML length: 4968 characters
+2025-10-21 16:47:31,939 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-21 16:47:31,961 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-21 16:47:31,981 - INFO - 🐍 Running as Python script from: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client
+2025-10-21 16:47:32,006 - INFO - 🔍 Searching for wkhtmltopdf.exe in 4 locations...
+2025-10-21 16:47:32,053 - INFO -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\wkhtmltopdf.exe
+2025-10-21 16:47:32,098 - INFO -    ❌ Not found
+2025-10-21 16:47:32,142 - INFO -    Checking: C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe
+2025-10-21 16:47:32,182 - INFO - ✅ Found wkhtmltopdf at: C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe
+2025-10-21 16:47:32,624 - INFO - HTML converted to PDF with wkhtmltopdf: C:\Users\user\AppData\Local\Temp\tmpv0690l0p.pdf
+2025-10-21 16:47:32,625 - INFO - ✅ wkhtmltopdf conversion successful: C:\Users\user\AppData\Local\Temp\tmpv0690l0p.pdf
+2025-10-21 16:47:32,642 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmpv0690l0p.pdf (23964 bytes)
+2025-10-21 16:47:32,668 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-21 16:47:32,694 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-21 16:47:32,719 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\SumatraPDF.exe
+2025-10-21 16:47:32,744 - DEBUG -    ❌ Not found
+2025-10-21 16:47:32,778 - DEBUG -    Checking: C:\Program Files\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:47:32,789 - DEBUG -    ❌ Not found
+2025-10-21 16:47:32,800 - DEBUG -    Checking: C:\Program Files (x86)\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:47:32,811 - DEBUG -    ❌ Not found
+2025-10-21 16:47:32,821 - INFO - SumatraPDF not found, trying Windows ShellExecute...
+2025-10-21 16:47:32,887 - INFO - ✅ PDF sent to printer using ShellExecute: BANAK
+2025-10-21 16:47:33,888 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-21 16:47:35,890 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmpv0690l0p.pdf
+2025-10-21 16:47:35,891 - INFO - ✅ Print job completed successfully
+2025-10-21 16:49:40,976 - WARNING - ⚠️ Disconnected from server
+2025-10-21 16:49:42,070 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 16:49:42,071 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 16:50:31,992 - INFO - 🖨️ Print request received
+2025-10-21 16:50:31,993 - INFO -    Type: html
+2025-10-21 16:50:32,004 - INFO -    Printer: Banak
+2025-10-21 16:50:32,028 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-21 16:50:32,069 - INFO - 📄 Converting HTML to PDF...
+2025-10-21 16:50:32,081 - INFO -    HTML length: 4480 characters
+2025-10-21 16:50:32,105 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-21 16:50:32,131 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-21 16:50:32,151 - INFO - 🐍 Running as Python script from: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client
+2025-10-21 16:50:32,176 - INFO - 🔍 Searching for wkhtmltopdf.exe in 4 locations...
+2025-10-21 16:50:32,223 - INFO -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\wkhtmltopdf.exe
+2025-10-21 16:50:32,278 - INFO -    ❌ Not found
+2025-10-21 16:50:32,308 - INFO -    Checking: C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe
+2025-10-21 16:50:32,338 - INFO - ✅ Found wkhtmltopdf at: C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe
+2025-10-21 16:50:32,802 - INFO - HTML converted to PDF with wkhtmltopdf: C:\Users\user\AppData\Local\Temp\tmprl8du7e3.pdf
+2025-10-21 16:50:32,803 - INFO - ✅ wkhtmltopdf conversion successful: C:\Users\user\AppData\Local\Temp\tmprl8du7e3.pdf
+2025-10-21 16:50:32,824 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmprl8du7e3.pdf (19752 bytes)
+2025-10-21 16:50:32,852 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-21 16:50:32,878 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-21 16:50:32,905 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\SumatraPDF.exe
+2025-10-21 16:50:32,930 - DEBUG -    ❌ Not found
+2025-10-21 16:50:32,967 - DEBUG -    Checking: C:\Program Files\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:50:32,977 - DEBUG -    ❌ Not found
+2025-10-21 16:50:32,986 - DEBUG -    Checking: C:\Program Files (x86)\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:50:32,997 - DEBUG -    ❌ Not found
+2025-10-21 16:50:33,006 - INFO - SumatraPDF not found, trying Windows ShellExecute...
+2025-10-21 16:50:33,070 - INFO - ✅ PDF sent to printer using ShellExecute: BANAK
+2025-10-21 16:50:34,071 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-21 16:50:36,073 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmprl8du7e3.pdf
+2025-10-21 16:50:36,073 - INFO - ✅ Print job completed successfully
+2025-10-21 16:50:56,111 - INFO - 🖨️ Print request received
+2025-10-21 16:50:56,112 - INFO -    Type: html
+2025-10-21 16:50:56,127 - INFO -    Printer: Banak
+2025-10-21 16:50:56,153 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-21 16:50:56,171 - INFO - 📄 Converting HTML to PDF...
+2025-10-21 16:50:56,191 - INFO -    HTML length: 4480 characters
+2025-10-21 16:50:56,211 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-21 16:50:56,229 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-21 16:50:56,248 - INFO - 🐍 Running as Python script from: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client
+2025-10-21 16:50:56,268 - INFO - 🔍 Searching for wkhtmltopdf.exe in 4 locations...
+2025-10-21 16:50:56,312 - INFO -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\wkhtmltopdf.exe
+2025-10-21 16:50:56,360 - INFO -    ❌ Not found
+2025-10-21 16:50:56,415 - INFO -    Checking: C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe
+2025-10-21 16:50:56,476 - INFO - 🖨️ Print request received
+2025-10-21 16:50:56,476 - INFO - ✅ Found wkhtmltopdf at: C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe
+2025-10-21 16:50:56,561 - INFO -    Type: html
+2025-10-21 16:50:56,640 - INFO -    Printer: Banak
+2025-10-21 16:50:56,680 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-21 16:50:56,710 - INFO - 📄 Converting HTML to PDF...
+2025-10-21 16:50:56,737 - INFO -    HTML length: 4958 characters
+2025-10-21 16:50:56,768 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-21 16:50:56,808 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-21 16:50:56,833 - INFO - 🐍 Running as Python script from: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client
+2025-10-21 16:50:56,852 - INFO - 🔍 Searching for wkhtmltopdf.exe in 4 locations...
+2025-10-21 16:50:56,899 - INFO -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\wkhtmltopdf.exe
+2025-10-21 16:50:56,957 - INFO -    ❌ Not found
+2025-10-21 16:50:56,994 - INFO - HTML converted to PDF with wkhtmltopdf: C:\Users\user\AppData\Local\Temp\tmp1sesk40n.pdf
+2025-10-21 16:50:57,011 - INFO -    Checking: C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe
+2025-10-21 16:50:57,090 - INFO - ✅ wkhtmltopdf conversion successful: C:\Users\user\AppData\Local\Temp\tmp1sesk40n.pdf
+2025-10-21 16:50:57,117 - INFO - ✅ Found wkhtmltopdf at: C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe
+2025-10-21 16:50:57,172 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmp1sesk40n.pdf (19655 bytes)
+2025-10-21 16:50:57,284 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-21 16:50:57,338 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-21 16:50:57,385 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\SumatraPDF.exe
+2025-10-21 16:50:57,432 - DEBUG -    ❌ Not found
+2025-10-21 16:50:57,480 - DEBUG -    Checking: C:\Program Files\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:50:57,509 - DEBUG -    ❌ Not found
+2025-10-21 16:50:57,537 - DEBUG -    Checking: C:\Program Files (x86)\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:50:57,561 - DEBUG -    ❌ Not found
+2025-10-21 16:50:57,581 - INFO - SumatraPDF not found, trying Windows ShellExecute...
+2025-10-21 16:50:57,619 - INFO - HTML converted to PDF with wkhtmltopdf: C:\Users\user\AppData\Local\Temp\tmp67ojuhos.pdf
+2025-10-21 16:50:57,627 - INFO - ✅ wkhtmltopdf conversion successful: C:\Users\user\AppData\Local\Temp\tmp67ojuhos.pdf
+2025-10-21 16:50:57,652 - INFO - ✅ PDF sent to printer using ShellExecute: BANAK
+2025-10-21 16:50:57,672 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmp67ojuhos.pdf (23543 bytes)
+2025-10-21 16:50:57,766 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-21 16:50:57,790 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-21 16:50:57,813 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\SumatraPDF.exe
+2025-10-21 16:50:57,835 - DEBUG -    ❌ Not found
+2025-10-21 16:50:57,858 - DEBUG -    Checking: C:\Program Files\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:50:57,868 - DEBUG -    ❌ Not found
+2025-10-21 16:50:57,881 - DEBUG -    Checking: C:\Program Files (x86)\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:50:57,890 - DEBUG -    ❌ Not found
+2025-10-21 16:50:57,901 - INFO - SumatraPDF not found, trying Windows ShellExecute...
+2025-10-21 16:50:57,962 - INFO - ✅ PDF sent to printer using ShellExecute: BANAK
+2025-10-21 16:50:58,717 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-21 16:50:58,963 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-21 16:51:00,720 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmp1sesk40n.pdf
+2025-10-21 16:51:00,720 - INFO - ✅ Print job completed successfully
+2025-10-21 16:51:00,966 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmp67ojuhos.pdf
+2025-10-21 16:51:00,966 - INFO - ✅ Print job completed successfully
+2025-10-21 16:53:06,023 - WARNING - ⚠️ Disconnected from server
+2025-10-21 16:53:07,259 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 16:53:07,260 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 16:53:21,305 - WARNING - ⚠️ Disconnected from server
+2025-10-21 16:53:22,291 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 16:53:22,291 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 16:53:52,477 - INFO - 💾 Configuration saved to: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\.env
+2025-10-21 16:53:56,170 - INFO - 🖨️ Print request received
+2025-10-21 16:53:56,171 - INFO -    Type: html
+2025-10-21 16:53:56,172 - INFO -    Printer: Banak
+2025-10-21 16:53:56,177 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-21 16:53:56,178 - INFO - 📄 Converting HTML to PDF...
+2025-10-21 16:53:56,180 - INFO -    HTML length: 4480 characters
+2025-10-21 16:53:56,184 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-21 16:53:56,188 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-21 16:53:56,189 - INFO - 🐍 Running as Python script from: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client
+2025-10-21 16:53:56,190 - INFO - 🔍 Searching for wkhtmltopdf.exe in 4 locations...
+2025-10-21 16:53:56,201 - INFO -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\wkhtmltopdf.exe
+2025-10-21 16:53:56,211 - INFO -    ❌ Not found
+2025-10-21 16:53:56,219 - INFO -    Checking: C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe
+2025-10-21 16:53:56,231 - INFO - ✅ Found wkhtmltopdf at: C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe
+2025-10-21 16:53:56,483 - INFO - 🖨️ Print request received
+2025-10-21 16:53:56,485 - INFO -    Type: html
+2025-10-21 16:53:56,500 - INFO -    Printer: Banak
+2025-10-21 16:53:56,505 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-21 16:53:56,513 - INFO - 📄 Converting HTML to PDF...
+2025-10-21 16:53:56,525 - INFO -    HTML length: 4958 characters
+2025-10-21 16:53:56,540 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-21 16:53:56,552 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-21 16:53:56,565 - INFO - 🐍 Running as Python script from: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client
+2025-10-21 16:53:56,576 - INFO - 🔍 Searching for wkhtmltopdf.exe in 4 locations...
+2025-10-21 16:53:56,597 - INFO -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\wkhtmltopdf.exe
+2025-10-21 16:53:56,626 - INFO -    ❌ Not found
+2025-10-21 16:53:56,631 - INFO - HTML converted to PDF with wkhtmltopdf: C:\Users\user\AppData\Local\Temp\tmp3qiuaffp.pdf
+2025-10-21 16:53:56,645 - INFO -    Checking: C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe
+2025-10-21 16:53:56,666 - INFO - ✅ wkhtmltopdf conversion successful: C:\Users\user\AppData\Local\Temp\tmp3qiuaffp.pdf
+2025-10-21 16:53:56,685 - INFO - ✅ Found wkhtmltopdf at: C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe
+2025-10-21 16:53:56,735 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmp3qiuaffp.pdf (19417 bytes)
+2025-10-21 16:53:56,842 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-21 16:53:56,890 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-21 16:53:56,930 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\SumatraPDF.exe
+2025-10-21 16:53:56,970 - DEBUG -    ❌ Not found
+2025-10-21 16:53:57,018 - DEBUG -    Checking: C:\Program Files\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:53:57,041 - DEBUG -    ❌ Not found
+2025-10-21 16:53:57,058 - DEBUG -    Checking: C:\Program Files (x86)\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:53:57,086 - DEBUG -    ❌ Not found
+2025-10-21 16:53:57,110 - INFO - SumatraPDF not found, trying Windows ShellExecute...
+2025-10-21 16:53:57,162 - INFO - HTML converted to PDF with wkhtmltopdf: C:\Users\user\AppData\Local\Temp\tmpbmn3r3b9.pdf
+2025-10-21 16:53:57,176 - INFO - ✅ wkhtmltopdf conversion successful: C:\Users\user\AppData\Local\Temp\tmpbmn3r3b9.pdf
+2025-10-21 16:53:57,186 - INFO - ✅ PDF sent to printer using ShellExecute: BANAK
+2025-10-21 16:53:57,191 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmpbmn3r3b9.pdf (23542 bytes)
+2025-10-21 16:53:57,248 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-21 16:53:57,253 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-21 16:53:57,258 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\SumatraPDF.exe
+2025-10-21 16:53:57,264 - DEBUG -    ❌ Not found
+2025-10-21 16:53:57,268 - DEBUG -    Checking: C:\Program Files\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:53:57,271 - DEBUG -    ❌ Not found
+2025-10-21 16:53:57,274 - DEBUG -    Checking: C:\Program Files (x86)\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:53:57,278 - DEBUG -    ❌ Not found
+2025-10-21 16:53:57,281 - INFO - SumatraPDF not found, trying Windows ShellExecute...
+2025-10-21 16:53:57,343 - INFO - ✅ PDF sent to printer using ShellExecute: BANAK
+2025-10-21 16:53:58,217 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-21 16:53:58,344 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-21 16:54:00,219 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmp3qiuaffp.pdf
+2025-10-21 16:54:00,219 - INFO - ✅ Print job completed successfully
+2025-10-21 16:54:00,347 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmpbmn3r3b9.pdf
+2025-10-21 16:54:00,348 - INFO - ✅ Print job completed successfully
+2025-10-21 16:55:09,634 - WARNING - ⚠️ Disconnected from server
+2025-10-21 16:55:09,665 - INFO - 🔌 Disconnected from server
+2025-10-21 16:55:17,032 - INFO - 🚀 Windows Printer Client GUI started
+2025-10-21 16:55:17,032 - INFO - 📍 Default Printer: BANAK
+2025-10-21 16:55:17,539 - INFO - 🔄 Auto-connecting to server on startup...
+2025-10-21 16:55:17,570 - INFO - 🔄 Connecting to https://socket.pss.al/...
+2025-10-21 16:55:17,824 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 16:55:17,825 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 16:55:23,817 - INFO - 💾 Configuration saved to: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\.env
+2025-10-21 16:55:27,082 - INFO - 🖨️ Print request received
+2025-10-21 16:55:27,083 - INFO -    Type: html
+2025-10-21 16:55:27,088 - INFO -    Printer: Banak
+2025-10-21 16:55:27,104 - INFO - Printing to: BANAK (Status: Ready)
+2025-10-21 16:55:27,104 - INFO - 📄 Converting HTML to PDF...
+2025-10-21 16:55:27,105 - INFO -    HTML length: 4448 characters
+2025-10-21 16:55:27,134 - INFO - Using PDF converter: wkhtmltopdf
+2025-10-21 16:55:27,135 - INFO - 🔧 Attempting wkhtmltopdf conversion...
+2025-10-21 16:55:27,143 - INFO - 🐍 Running as Python script from: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client
+2025-10-21 16:55:27,161 - INFO - 🔍 Searching for wkhtmltopdf.exe in 4 locations...
+2025-10-21 16:55:27,193 - INFO -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\wkhtmltopdf.exe
+2025-10-21 16:55:27,221 - INFO -    ❌ Not found
+2025-10-21 16:55:27,230 - INFO -    Checking: C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe
+2025-10-21 16:55:27,245 - INFO - ✅ Found wkhtmltopdf at: C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe
+2025-10-21 16:55:27,822 - INFO - HTML converted to PDF with wkhtmltopdf: C:\Users\user\AppData\Local\Temp\tmp6uwdfbk2.pdf
+2025-10-21 16:55:27,823 - INFO - ✅ wkhtmltopdf conversion successful: C:\Users\user\AppData\Local\Temp\tmp6uwdfbk2.pdf
+2025-10-21 16:55:27,823 - INFO - ✅ PDF created: C:\Users\user\AppData\Local\Temp\tmp6uwdfbk2.pdf (17870 bytes)
+2025-10-21 16:55:27,833 - INFO - 🖨️ Printing PDF to BANAK...
+2025-10-21 16:55:27,859 - INFO - 🔍 Searching for SumatraPDF.exe...
+2025-10-21 16:55:27,879 - DEBUG -    Checking: C:\Users\user\Desktop\ParidBackend\PrinterClientPro\Windows-Printer-Client\SumatraPDF.exe
+2025-10-21 16:55:27,897 - DEBUG -    ❌ Not found
+2025-10-21 16:55:27,899 - DEBUG -    Checking: C:\Program Files\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:55:27,901 - DEBUG -    ❌ Not found
+2025-10-21 16:55:27,902 - DEBUG -    Checking: C:\Program Files (x86)\SumatraPDF\SumatraPDF.exe
+2025-10-21 16:55:27,903 - DEBUG -    ❌ Not found
+2025-10-21 16:55:27,904 - INFO - SumatraPDF not found, trying Windows ShellExecute...
+2025-10-21 16:55:28,011 - INFO - ✅ PDF sent to printer using ShellExecute: BANAK
+2025-10-21 16:55:29,012 - INFO - ✅ HTML printed successfully via PDF conversion
+2025-10-21 16:55:31,014 - INFO - Cleaned up temporary PDF: C:\Users\user\AppData\Local\Temp\tmp6uwdfbk2.pdf
+2025-10-21 16:55:31,015 - INFO - ✅ Print job completed successfully
+2025-10-21 16:57:36,095 - WARNING - ⚠️ Disconnected from server
+2025-10-21 16:57:37,423 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 16:57:37,423 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 16:59:42,429 - WARNING - ⚠️ Disconnected from server
+2025-10-21 16:59:43,830 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 16:59:43,831 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 17:01:48,841 - WARNING - ⚠️ Disconnected from server
+2025-10-21 17:01:49,852 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 17:01:49,854 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 17:03:54,858 - WARNING - ⚠️ Disconnected from server
+2025-10-21 17:03:56,299 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 17:03:56,300 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 17:06:01,302 - WARNING - ⚠️ Disconnected from server
+2025-10-21 17:06:02,847 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 17:06:02,848 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 17:06:32,922 - WARNING - ⚠️ Disconnected from server
+2025-10-21 17:09:30,096 - INFO - 🚀 Windows Printer Client GUI started
+2025-10-21 17:09:30,097 - INFO - 📍 Default Printer: BANAK
+2025-10-21 17:09:30,607 - INFO - 🔄 Auto-connecting to server on startup...
+2025-10-21 17:09:30,624 - INFO - 🔄 Connecting to https://socket.pss.al/...
+2025-10-21 17:09:30,979 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 17:09:30,979 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 17:11:35,990 - WARNING - ⚠️ Disconnected from server
+2025-10-21 17:11:37,312 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 17:11:37,313 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 17:13:42,318 - WARNING - ⚠️ Disconnected from server
+2025-10-21 17:13:43,922 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 17:13:43,923 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 17:15:48,934 - WARNING - ⚠️ Disconnected from server
+2025-10-21 17:15:50,258 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 17:15:50,258 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 17:17:55,269 - WARNING - ⚠️ Disconnected from server
+2025-10-21 17:17:56,585 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 17:17:56,586 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 17:20:01,595 - WARNING - ⚠️ Disconnected from server
+2025-10-21 17:20:03,089 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 17:20:03,090 - INFO - ✅ Successfully connected to Backend-Socket server
+2025-10-21 17:22:08,097 - WARNING - ⚠️ Disconnected from server
+2025-10-21 17:22:09,447 - INFO - 📨 Status: Printer client connected and joined room
+2025-10-21 17:22:09,448 - INFO - ✅ Successfully connected to Backend-Socket server
